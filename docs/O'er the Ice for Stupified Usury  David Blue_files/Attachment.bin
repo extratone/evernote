@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+	<!--[if IE 8]>
+		<html xmlns="http://www.w3.org/1999/xhtml" class="ie8" lang="en-US">
+	<![endif]-->
+	<!--[if !(IE 8) ]><!-->
+		<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Extratone &lsaquo; Log In</title>
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' href='http://www.extratone.com/wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=b171e914a3238a6754ae76778e888456' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.extratone.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.extratone.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<style type="text/css">#wlcms-login-wrapper{ background: url('wp-content/plugins/white-label-cms/images/footergrass.jpg') repeat-x fixed center bottom transparent; display: block; height: 100%; left: 0; overflow: auto; position: absolute; top: 0; width: 100%;} .login h1 a { display:all; background: url(http://www.extratone.com/wp-content/uploads/2016/05/logintiny.png) no-repeat bottom center !important; margin-bottom: 10px; background-size: auto; } .login h1 a { width :auto!important;} </style> <script type="text/javascript">
+                jQuery(document).ready(function()
+               {
+                    jQuery('#login h1 a').attr('title','Extratone');
+                    jQuery('#login h1 a').attr('href','http://www.extratone.com');
+               });
+        </script><script type="text/javascript"> jQuery(document).ready(function(){ jQuery("#login").wrap("<div id='wlcms-login-wrapper'></div>"); }); </script> <script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.extratone.com/?wordfence_logHuman=1&hid=77AC084537BB951993A9B60D31B5E737');
+</script><meta name='robots' content='noindex,follow' />
+	<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="http://www.extratone.com/wp-content/uploads/2016/11/cropped-emily-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://www.extratone.com/wp-content/uploads/2016/11/cropped-emily-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.extratone.com/wp-content/uploads/2016/11/cropped-emily-180x180.png" />
+<meta name="msapplication-TileImage" content="http://www.extratone.com/wp-content/uploads/2016/11/cropped-emily-270x270.png" />
+	</head>
+	<body class="login login-action-login wp-core-ui  locale-en-us">
+		<div id="login">
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Extratone</a></h1>
+	
+<form name="loginform" id="loginform" action="http://www.extratone.com/wp-login.php" method="post">
+	<p>
+		<label for="user_login">Username or Email Address<br />
+		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
+	</p>
+	<p>
+		<label for="user_pass">Password<br />
+		<input type="password" name="pwd" id="user_pass" class="input" value="" size="20" /></label>
+	</p>
+		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
+	<p class="submit">
+		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
+		<input type="hidden" name="redirect_to" value="http://www.extratone.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale-2x" />
+		<input type="hidden" name="testcookie" value="1" />
+	</p>
+</form>
+
+<p id="nav">
+<a rel="nofollow" href="http://www.extratone.com/account/">Register</a> | 	<a href="http://www.extratone.com/account/lost-password/">Lost your password?</a>
+</p>
+
+<script type="text/javascript">
+function wp_attempt_focus(){
+setTimeout( function(){ try{
+d = document.getElementById('user_login');
+d.focus();
+d.select();
+} catch(e){}
+}, 200);
+}
+
+wp_attempt_focus();
+if(typeof wpOnload=='function')wpOnload();
+</script>
+
+	<p id="backtoblog"><a href="http://www.extratone.com/">&larr; Back to Extratone</a></p>
+	
+	</div>
+
+	
+	<link rel='stylesheet' id='jetpack_css-css'  href='http://www.extratone.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2' type='text/css' media='all' />
+	<div class="clear"></div>
+	</body>
+	</html>
+	
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 1215/1259 objects using disk
+Page Caching using disk: enhanced (Requested URI contains query)
+Content Delivery Network via N/A
+Minified using disk (Request URI is rejected)
+Database Caching using disk (Request-wide Request URI is rejected)
+
+ Served from: www.extratone.com @ 2016-12-18 16:12:09 by W3 Total Cache -->

@@ -1,0 +1,1017 @@
+<!DOCTYPE html>
+<!--[if IE 7]>    <html class="ie ie7 lt-ie10 lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="ie ie8 lt-ie10 lt-ie9 " lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie ie9 lt-ie10" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="xSOV/GPRMpOLjsICnNyEGryWULLQo0/Z+SHOqvbWIWQji3GzCEpCQdWe98zu5sdgvns91jYKqKcqJ3y7OsXwPw==" />
+
+  <meta name="theme-color" content="#d8352a">
+  <meta name="msapplication-navbutton-color" content="#d8352a">
+  <meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5b06465c9f","applicationID":"367227","transactionName":"el9cTBRXCl8EFk5QX1dEV1YSFxVbDhM=","queueTime":0,"applicationTime":40,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcEVlFACwUHVlNV"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+  <meta property="fb:app_id" content="127105130696839">
+      <meta property="fb:pages" content="176084152419221" />
+      <meta property="fb:pages" content="1453112561595308" />
+      <meta property="fb:pages" content="755360694556328" />
+      <meta property="fb:pages" content="898911580155104" />
+      <meta property="fb:pages" content="148546898646992" />
+  <script>
+  if (/iPad/.test(navigator.userAgent)) {
+    // 972px layout + 20px gutter on left & right.
+    document.write('<meta name="viewport" content="width=1012">');
+  } else {
+    document.write('<meta name="viewport" content="width=device-width, initial-scale=1">');
+  }
+</script>
+
+  <meta name="description" content="To decide between Hillary Clinton and Donald Trump, American voters will have to decide which narrative they prefer, leaving the truth to emerge later from the political rubble." />
+<meta name="pubdate" content="20161009" />
+<meta name="commissioning-region" content="au" />
+<meta name="searchtype" content="analysis" />
+<meta name="original-source" content="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" />
+<meta name="news_keywords" content="2016 US Presidential Election, Donald Trump, Gun control, Hillary Clinton, Political campaigning, Truth" />
+
+  <meta name="author" content="Peter Ellerton" />
+
+  <meta name="institution" content="The University of Queensland" />
+
+  <meta property="og:site_name" content="The Conversation" />
+<meta property="og:title" content="Post-truth politics and the US election: why the narrative trumps the facts" />
+<meta property="og:description" content="To decide between Hillary Clinton and Donald Trump, American voters will have to decide which narrative they prefer, leaving the truth to emerge later from the political rubble." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="http://cdn.theconversation.com/files/140811/width1356x668/image-20161006-32704-j509nd.jpg" />
+<meta property="og:updated_time" content="2016-11-25T04:37:45Z" />
+<meta property="og:url" content="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" />
+<meta property="article:publisher" content="https://facebook.com/ConversationEDU" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@ConversationEDU" />
+
+
+
+  <!-- refspec a64a901 -->
+  <title>Post-truth politics and the US election: why the narrative trumps the facts</title>
+  <link rel="stylesheet" media="screen" href="/assets/core-441d096882048241b4d9e9cdfb06974b4a0ed4d95945cb25a1d2f910fda454cd.css" />
+
+
+
+
+<!--[if lt IE 9]><script src="/javascripts/vendor/shim.js"></script><![endif]-->
+
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="/assets/ie/ie7-be9b70bd8e39bbc4a0b262834459e06fb56510d8a1ad366b29f5e4338d214061.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="/assets/ie/ie8-bf8035336f9cb9dae20d21c2a52cd81201596becac922a7786690f24d4a0fa4d.css" /><![endif]-->
+
+<link rel="stylesheet" media="print" href="/assets/print-421e190c1030b77ac997098e940ae51fca755a0c9e6e9d36bcf3262092ef3d86.css" />
+
+  <link rel="apple-touch-icon-precomposed" href="/assets/ios-logo-b497c182371a375a19870cc3a786efa491d09a6aa394492a24ef763346962e75.png">
+<link rel="icon" sizes="192x192" href="/assets/white-logo-192x192-ff830765110f0c2330ee2aec901205419acc8dcc489900f3bb6d53c97cedc4e7.png">
+<link rel="shortcut icon" href="/favicon.ico">
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-21436757-1"]);
+    _gaq.push([ '_setCustomVar', 1, 'UserType', 'Reader', 2 ]);
+    _gaq.push([ '_setCustomVar', 5, 'RegionCode', 'us', 3 ]);
+    _gaq.push([ '_setCustomVar', 2, 'CommissioningRegion', 'au', 3 ]);
+    _gaq.push([ '_setCustomVar', 3, 'ContentType', 'analysis', 3 ]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+    
+    
+    <link rel="canonical" href="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" />
+
+</head>
+<body class="region_us content content-show  refresh-article">
+  <nav class="editorial-menu">
+  </nav>
+
+  
+  <span id="small-sidebar-open-button" class="icon-menu"></span>
+  <div id="small-sidebar">
+    <span id="small-sidebar-close-button" class="icon-delete"></span>
+    <nav class="small-sidebar-group small-sidebar-editions">
+      <h3>Editions</h3>
+      <fieldset class="region-select">
+        <select id="small-region-select-dropdown">
+            <option data-code="AFRICA" value="/africa">
+              Africa
+            </option>
+            <option data-code="AU" value="/au">
+              Australia
+            </option>
+            <option data-code="FR" value="/fr">
+              France
+            </option>
+            <option data-code="GLOBAL" value="/global">
+              Global
+            </option>
+            <option data-code="UK" value="/uk">
+              United Kingdom
+            </option>
+            <option data-code="US" value="/us" selected="selected">
+              United States
+            </option>
+        </select>
+      </fieldset>
+    </nav>
+
+    <nav class="small-sidebar-group">
+      <h3>Sections</h3>
+      <ul>
+          <li class="home-page ">
+            <a class="active" href="/us">Home<span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="arts ">
+            <a class="" href="/us/arts">Arts <span><span title="and">+</span> Culture</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="business ">
+            <a class="" href="/us/business">Economy <span><span title="and">+</span> Business</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="education ">
+            <a class="" href="/us/education">Education<span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="environment ">
+            <a class="" href="/us/environment">Environment <span><span title="and">+</span> Energy</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="health ">
+            <a class="" href="/us/health">Health <span><span title="and">+</span> Medicine</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="politics ">
+            <a class="" href="/us/politics">Politics <span><span title="and">+</span> Society</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="technology ">
+            <a class="" href="/us/technology">Science <span><span title="and">+</span> Technology</span><span class="icon-chevron-right"></span></a>
+          </li>
+          <li class="election-2016 last">
+            <a class="" href="/us/election-2016">Election 2016<span class="icon-chevron-right"></span></a>
+          </li>
+      </ul>
+    </nav>
+
+    <nav id="small-sidebar-search" class="small-sidebar-group">
+      <h3>Search</h3>
+      <form action="/search">
+        <input type="text" name="q" placeholder="Search analysis, academics…">
+        <button type="submit"><span class="icon-search"></span></button>
+      </form>
+    </nav>
+
+    <nav class="small-sidebar-group">
+      <h3>Services</h3>
+      <ul>
+        <li>
+          <a href="/us/newsletter">
+            Newsletter<span class="icon-chevron-right"></span>
+</a>        </li>
+          <li id="play-newsstand-link">
+            <a href="http://google.com/newsstand/s/CBIwr8WNoC4">Read on Play Newsstand<span class="icon-chevron-right"></span></a>
+          </li>
+      </ul>
+    </nav>
+
+    <nav class="small-sidebar-group">
+      <h3>Information</h3>
+
+      <ul>
+        <li><a href="/us/who-we-are"><span>Who we are</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/charter"><span>Our charter</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/team"><span>Our team</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/partners"><span>Partners and funders</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/institutions"><span>Contributing institutions</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/contact-us"><span>Contact us</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/privacy-policy"><span>Privacy policy</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/terms-and-conditions"><span>Terms and conditions</span><span class="icon-chevron-right"></span></a></li>
+        <li><a href="/us/corrections"><span>Corrections</span><span class="icon-chevron-right"></span></a></li>
+      </ul>
+    </nav>
+  </div>
+  <div id="small-sidebar-overlay"></div>
+
+
+  <div id="page-wrapper">
+    <section id="topbar">
+  <div class="wrapper clearfix">
+
+    <a class="topbar-mobile-home-link" href="/us">
+      <img alt="The Conversation" src="/assets/carlton/logos/logo-4c65d93682925a65bb0bacf2f7085e9162dab46efbe3ef45244740a12a15ea35.svg" />
+</a>
+    <nav class="topbar-module">
+  <ul class="topbar-item-list">
+    <li class="topbar-home-link">
+      <a href="/us">
+        <i class="icon-home"></i>
+</a>    </li>
+    <li class="topbar-edition-selector-title topbar-label">Edition:</li>
+  </ul>
+</nav>
+
+<nav class="topbar-edition-selector topbar-dropdown topbar-module">
+  <a class="menu-button-open" href="/us"></a>
+  <div class="menu-button-contents">
+    <span class="menu-button-text">
+      <span class="current-region">United States</span>
+    </span>
+    <i class="icon-caret-down drop-down-caret"></i>
+  </div>
+
+  <ul class="menu">
+      <li class="region africa">
+        <a title="Africa edition" href="/africa">Africa</a>
+      </li>
+      <li class="region au">
+        <a title="Australia edition" href="/au">Australia</a>
+      </li>
+      <li class="region fr">
+        <a title="France edition" href="/fr">France</a>
+      </li>
+      <li class="region global">
+        <a title="Global edition" href="/global">Global</a>
+      </li>
+      <li class="region uk">
+        <a title="United Kingdom edition" href="/uk">United Kingdom</a>
+      </li>
+  </ul>
+</nav>
+
+
+    
+
+    <nav class="topbar-account-nav topbar-dropdown topbar-module">
+
+
+    <ul class="topbar-item-list auth">
+      <li class="author-signup">
+        <a href="/become-an-author">Become an author</a>
+      </li>
+      <li class="reader-signup">
+        <a href="https://theconversation.com/sign_up?return_to=%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480">Sign up as a reader</a>
+      </li>
+      <li class="reader-signin">
+        <a href="/sign_in?return_to=%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480">Sign in</a>
+      </li>
+    </ul>
+</nav>
+
+
+
+    <nav class="topbar-stay-informed topbar-module">
+  <ul class="topbar-button-list">
+    <li class="topbar-button with-label newsletter">
+      <a title="Sign up to receive our daily email newsletter" href="/us/newsletter">
+        <i class="icon-email"></i>
+        <span class="topbar-button-text">
+          Get newsletter
+        </span>
+</a>    </li>
+    <li class="topbar-button facebook">
+      <a title="The Conversation on Facebook" href="https://facebook.com/theConversationUS">
+        <i class="icon-facebook-simple"></i>
+</a>    </li>
+    <li class="topbar-button twitter">
+      <a title="The Conversation on Twitter" href="https://twitter.com/ConversationUS">
+        <i class="icon-twitter"></i>
+</a>    </li>
+    <li class="topbar-button rss">
+      <a title="Feeds from The Conversation" href="/us/feeds">
+        <i class="icon-rss"></i>
+</a>    </li>
+  </ul>
+</nav>
+
+
+  </div>
+</section>
+
+    
+  <section id="header">
+    <div class="wrapper nocontent">
+      <header id="masthead" class="clearfix">
+  <a class="masthead-home-link" href="/us">
+    <img alt="The Conversation" src="/assets/carlton/logos/logo-4c65d93682925a65bb0bacf2f7085e9162dab46efbe3ef45244740a12a15ea35.svg" />
+</a>
+  <form class="masthead-search" action="/search" method="get">
+    <fieldset>
+  <legend>Search</legend>
+  <div class="row">
+    <div class="input-wrapper">
+      <label for="q"><i class="icon-search"></i></label>
+      <input type="text" name="q" id="q" value="" placeholder="Search analysis, research, academics…" />
+    </div>
+    <button type="submit" class="button" value="Search"></button>
+  </div>
+</fieldset>
+
+  </form>
+
+  <div class="masthead-tagline">
+    Academic rigor, journalistic flair
+  </div>
+</header>
+
+      <nav id="primary-navigation" class=" nocontent">
+  <ol>
+      <li class="arts ">
+        <a class="" title="Arts + Culture" href="/us/arts">Arts <span><span title="and">+</span> Culture</span></a>
+      </li>
+      <li class="business ">
+        <a class="" title="Economy + Business" href="/us/business">Economy <span><span title="and">+</span> Business</span></a>
+      </li>
+      <li class="education ">
+        <a class="" title="Education" href="/us/education">Education</a>
+      </li>
+      <li class="environment ">
+        <a class="" title="Environment + Energy" href="/us/environment">Environment <span><span title="and">+</span> Energy</span></a>
+      </li>
+      <li class="health ">
+        <a class="" title="Health + Medicine" href="/us/health">Health <span><span title="and">+</span> Medicine</span></a>
+      </li>
+      <li class="politics ">
+        <a class="" title="Politics + Society" href="/us/politics">Politics <span><span title="and">+</span> Society</span></a>
+      </li>
+      <li class="technology ">
+        <a class="" title="Science + Technology" href="/us/technology">Science <span><span title="and">+</span> Technology</span></a>
+      </li>
+      <li class="election-2016 last">
+        <a class="" title="Election 2016" href="/us/election-2016">Election 2016</a>
+      </li>
+  </ol>
+</nav>
+
+    </div>
+  </section>
+
+    
+
+    <section id="topics">
+      <div class="wrapper nocontent">
+          <section id="hot-topics" class=" clearfix nocontent">
+    <h3>
+      <a href="/us/topics">
+        <i class="icon-tag"></i> Follow Topics
+</a>    </h3>
+
+    <ol>
+        <li>
+          <a class="nocontent" data-id="13354" href="/us/topics/affordable-care-act-13354">Affordable Care Act</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="15917" href="/us/topics/economic-inequality-15917">Economic inequality</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="26182" href="/us/topics/opioid-epidemic-26182">Opioid Epidemic</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="535" href="/us/topics/cybersecurity-535">Cybersecurity</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="28" href="/us/topics/psychology-28">Psychology</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="27" href="/us/topics/climate-change-27">Climate change</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="29159" href="/us/topics/policing-in-america-29159">policing in America</a>
+        </li>
+        <li>
+          <a class="nocontent" data-id="11740" href="/us/topics/driverless-cars-11740">Driverless cars</a>
+        </li>
+    </ol>
+  </section>
+
+      </div>
+    </section>
+
+
+    <div id="outer">
+      
+
+      
+
+
+
+  <article id="article" class="clearfix has-desktop-magazine" data-id="66480" itemscope itemtype="http://schema.org/Article">
+  
+  
+    <figure class="magazine">
+      <div class="magazine-header">
+          <div class="desktop-magazine">
+            <div class="image" style="background-image: url(https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/140811/wide_article/width1356x668/xzpyz75r-1475791018.jpg);">
+              <img src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/140811/wide_article/width1356x668/xzpyz75r-1475791018.jpg" alt="Xzpyz75r 1475791018" />
+            </div>
+          </div>
+
+
+        <div class="magazine-title">
+          <div class="wrapper">
+            
+  <header class="grid-twelve large-grid-eleven">
+    <div>
+      <div class="content-header-block">
+        <h1 class="entry-title instapaper_title" itemprop="name">
+          <strong>
+            <span class="nobr">Post-truth</span> politics and the US election: why the narrative trumps the&nbsp;facts
+          </strong>
+        </h1>
+      </div>
+    </div>
+    <time pubdate="pubdate" datetime="2016-10-09T19:03:38Z" itemprop="datePublished" content="2016-10-09T19:03:38Z">October 9, 2016 3.03pm EDT</time>
+  </header>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="wrapper">
+          <figcaption>
+            In politics, as in life in general, there are many things we value more than truth.
+            <span class="attribution"><span class="source">Reuters/Mike Segar</span></span>
+          </figcaption>
+      </div>
+    </figure>
+
+
+  <div class="wrapper">
+    <div class="content-header grid-sixteen">
+      
+  <header class="grid-twelve large-grid-eleven">
+    <div>
+      <div class="content-header-block">
+        <h1 class="entry-title instapaper_title" itemprop="name">
+          <strong>
+            <span class="nobr">Post-truth</span> politics and the US election: why the narrative trumps the&nbsp;facts
+          </strong>
+        </h1>
+      </div>
+    </div>
+    <time pubdate="pubdate" datetime="2016-10-09T19:03:38Z" itemprop="datePublished" content="2016-10-09T19:03:38Z">October 9, 2016 3.03pm EDT</time>
+  </header>
+
+    </div>
+
+    <div class="content-sidebar grid-four large-grid-four grid-last">
+      
+        <section class="content-authors">
+  <div class="content-authors-synopsis">
+    <a href="#" class="content-authors-toggle">
+      <i class="icon-caret-down"></i>
+      <i class="icon-caret-up"></i>
+      <span class="nobr">Peter Ellerton</span>
+    </a>
+  </div>
+
+  <div class="content-authors-group">
+    <h3 class="double-bordered">Author</h3>
+    <ol>
+      <li class="vcard" id="author-143977" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+    <a rel="author" href="/profiles/peter-ellerton-8574">
+      <img data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/avatars/8574/width170/RackMultipart20140119-31327-1kwvlxv.jpg" itemprop="image" alt="" src="/assets/author/width170_default-435a60c149a66bb53fa6570cebed17a466fba5c879aae3a6ef88f2629ea05001.jpg" />
+      <span class="fn author-name" itemprop="name">
+        Peter Ellerton
+      </span>
+      
+</a>    
+
+    <p class="role">
+      Lecturer in Critical Thinking, The University of Queensland
+    </p>
+
+</li>
+
+    </ol>
+  </div>
+</section>
+
+      
+    <section class="content-disclosure-statement">
+      <h3 class="double-bordered">Disclosure statement</h3>
+        <p><span>Peter Ellerton does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond the academic appointment above.</span></p>
+    </section>
+
+      
+
+  <section class="content-partners">
+    <h3 class="double-bordered">Partners</h3>
+      <p class="disclosure-logo clearfix"><a class="logo" href="/institutions/the-university-of-queensland-805"><img alt="University of Queensland" src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/institutions/805/logos/width170_logo-1407976658.jpg" /></a></p>
+      <p class="funding-statement"><a href="/institutions/the-university-of-queensland-805">University of Queensland</a> provides funding as a member of The Conversation AU.</p>
+
+
+    <p><a href="/us/partners">View all partners</a></p>
+  </section>
+
+      
+  <section class="content-republish">
+    <a class="button primary steal-button" data-republish="https://theconversation.com/share/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" href="#republish">Republish this article</a>
+
+    <p>
+      <a class="license-logo" href="http://creativecommons.org/licenses/by-nd/4.0/"><img src="/assets/call-to-actions/republish-8b0e7b38d4622ad2092c95556ac68915657429cebcae4b1b92ae50373c9d0b66.png" alt="Republish" /></a>
+      Republish our articles for free, online or in print, under Creative Commons licence.
+    </p>
+
+
+  </section>
+
+      
+
+    </div>
+
+    <div class="grid-twelve large-grid-eleven">
+      
+    <figure class="content-lead-image grid-twelve large-grid-eleven">
+  <img data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/140811/width926/image-20161006-32704-j509nd.jpg" data-id="140811" alt="" itemprop="image" src="" />
+    <figcaption>
+      In politics, as in life in general, there are many things we value more than truth.
+      <span class="attribution"><span class="source">Reuters/Mike Segar</span></span>
+    </figcaption>
+</figure>
+
+
+      
+
+
+      <div class="top">
+        
+  <aside class="grid-two content-share">
+    <ul>
+      <li class="email">
+        <a class="email-button" data-url="null" data-id="66480" target="_blank" href="mailto:?subject=Post-truth%20politics%20and%20the%20US%20election%3A%20why%20the%20narrative%20trumps%20the%20facts%20%E2%80%94%20The%20Conversation&amp;body=Hi.%20I%20found%20an%20article%20that%20you%20might%20like%3A%20%22Post-truth%20politics%20and%20the%20US%20election%3A%20why%20the%20narrative%20trumps%20the%20facts%22%20%E2%80%94%20http%3A%2F%2Ftheconversation.com%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480"><i class="icon-email"></i> <span>Email</span></a>
+      </li>
+
+      <li class="twitter">
+        <a class="twitter-button" data-url="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" data-id="66480" target="_blank" href="http://twitter.com/intent/tweet?text=Post-truth+politics+and+the+US+election%3A+why+the+narrative+trumps+the+facts&amp;url=http%3A%2F%2Ftheconversation.com%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480&amp;utm_campaign=none&amp;utm_medium=tweetbutton&amp;utm_source=twitter&amp;via=ConversationEDU"><i class="icon-twitter"></i> <span>Twitter</span></a>
+      </li>
+
+      <li class="facebook">
+        <a class="facebook-button" data-url="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" data-id="66480" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftheconversation.com%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480&amp;utm_medium=facebookbutton&amp;utm_source=facebook"><i class="icon-facebook"></i> <span>Facebook</span></a>
+      </li>
+
+      <li class="linkedin">
+        <a class="linkedin-button" data-url="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" data-id="66480" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;source=The+Conversation&amp;summary=Does+the+truth+count+in+politics%3F+Or+is+it+just+a+matter+of+doing+what+you+have+to+do+for+the+greater+goal+of+making+sure+the+%E2%80%9Cright%E2%80%9D+people+and+parties+get+elected%3F+%0A%0ADo+we+really+want+our+leaders...&amp;title=Post-truth+politics+and+the+US+election%3A+why+the+narrative+trumps+the+facts&amp;url=http%3A%2F%2Ftheconversation.com%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480&amp;utm_medium=linkedinbutton&amp;utm_source=linkedin"><i class="icon-linkedin"></i> <span>LinkedIn</span></a>
+      </li>
+    </ul>
+  </aside>
+
+      </div>
+
+      
+  <div class="grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body" itemprop="articleBody">
+    <p>Does the truth count in politics? Or is it just a matter of doing what you have to do for the greater goal of making sure the “right” people and parties get elected? </p>
+
+<p>Do we really want our leaders to be truthful, or indeed have any particular virtues? Or do we just want people who will do what we think should be done?</p>
+
+<p>These are questions with complex answers. But in this complexity one simple idea  stands out: in politics, as in life in general, there are many things we value more than truth.</p>
+
+<p>The demotion of truth as a criterion for success (by both politicians and the electorate) is evident in the current US election, where politicians can make statements that are demonstrably false and escape unscathed, at least in the eyes of those who already support them. This is true of <a href="https://www.theguardian.com/us-news/2016/sep/26/debate-fact-check-trump-clinton-live-quotes-hofstra">both Donald Trump and Hillary Clinton</a> and many of their supporters.</p>
+
+<p>What we value most in politicians is not that they tell the truth, but that they agree with us, or at least that the worldview they espouse resonates with our own. Under these conditions, the minor incoherence of conflicting statements, or even outright lies, is a secondary concern compared with the greater coherence on offer.</p>
+
+<p>It is partly for this reason that the lies of politicians we don’t agree with seem like howling inconsistencies — which we post on social media with wicked delight — while the lies of more agreeable politicians are just trifling matters, best overlooked or forgiven. </p>
+
+<h2>Truth is a poor second</h2>
+
+<p>But why should this be the case?</p>
+
+<p>One way to understand this is to appreciate that humans are storytelling animals. From creation myths to parables, and even political ideologies, we create and embrace stories because they help us make sense of the world and understand our place within it. </p>
+
+<p>We make stories, or narratives, that explain how the world works, how people prosper, how we should treat each other, and how we ought to behave. Many of these narratives are political  –  those on the left have different narratives from those on the right, for example.</p>
+
+<p>We care much more that our narratives provide us with meaning than that they are true. Even when we value truth, we associate it with coherence. Therefore, the more coherent our own narratives, the more we think they are true.</p>
+
+<p>As psychologist Daniel Kahneman has <a href="https://www.brainpickings.org/2013/10/30/daniel-kahneman-intuition/">noted</a>:</p>
+
+<blockquote>
+<p>The confidence people have in their beliefs is not a measure of the quality of evidence but of the coherence of the story that the mind has managed to construct.</p>
+</blockquote>
+
+<p>What’s more, we actively fight to maintain our narratives in the face of information that could corrupt them. It is often easier to ignore facts, or look for reasons to discount them, than it is to remake our narrative. </p>
+
+<p>The decoupling of truth and politics and the consequent shrinking of evidence-based policy was eloquently demonstrated in 2013 by Joe Hockey, soon to be Australian treasurer,  <a href="http://www.pressreader.com/australia/the-daily-examiner/20130829/281814281525258">when he said</a>:</p>
+
+<blockquote>
+<p>Fact-checkers are entitled to their opinion.</p>
+</blockquote>
+
+<h2>The narrative trumps the facts</h2>
+
+<p>The problem is that often the truth does not speak for itself – it has to be interpreted through a narrative. This means facts alone <a href="https://theconversation.com/why-facts-alone-dont-change-minds-in-our-big-public-debates-25094">are not enough</a>.</p>
+
+<p>As an example, the gun lobby in the US and those seeking gun control can see the same event as evidence for their own cases. Another mass shooting? To those supporting gun control, it’s a case of “if only the perpetrator had been prevented from accessing a gun”. To those pro-gun, it’s a case of “if only those around them were better armed”. </p>
+
+<p>Both statements are completely coherent with the narratives of their proponents.</p>
+
+<p>Politicians help us make narratives, or try to, and then appeal to them. Stories of us and the other, of lifters and leaners, of familiar and unfamiliar, are the stuff of political persuasion. </p>
+
+<p>In the extreme, it’s a case of demonise, polarise, marginalise and cauterise – a ruthless and self-serving strategy in which protagonists fan the flames of discontent and ride the thermals to political success. More subtly, it can be an appeal to tradition or an invocation of stories that represent “better times”.</p>
+
+<p>And once a narrative is crafted and accepted, we have a clear criterion for accepting or rejecting the views of others – does what you say fit my narrative or not? </p>
+
+<p>When we ask someone what they think about an issue, it is more common that they will be performing this internal matching process than actually analysing the truth of the matter. They will be judging rather than thinking; reacting rather than engaging. This is exactly <a href="https://theconversation.com/why-politicians-dont-want-us-to-think-but-opinions-are-okay-41459">what politicians want</a>, since tinkering with narratives is an effective path to manipulation.</p>
+
+<p>What a political narrative fits, however, is not the truth but people’s collective and individual preferences. It is built primarily for utility, not for truth-seeking.</p>
+
+<p>Ultimately, this explains the success of politicians like Trump. Trump has delivered a narrative that, for many people:</p>
+
+<ul>
+<li><p>has explanatory power;</p></li>
+<li><p>is coherent with what they feel about many things; and </p></li>
+<li><p>offers a way out based on the unfolding of the narrative. </p></li>
+</ul>
+
+<p>Clinton, too, has done the same. </p>
+
+<p>Which one actually has the most traction with reality is an empirical question, but only one will be tested. </p>
+
+<p>To decide between Clinton and Trump, American voters will have to decide which narrative they prefer, leaving the truth to emerge later from the political rubble.</p>
+  </div>
+
+      
+
+      
+    <div class="grid-ten grid-prepend-two large-grid-nine grid-last content-topics topic-list">
+      <i class="icon-tag"></i>
+      <ul>
+          <li class="topic-list-item">
+            <a href="/topics/hillary-clinton-2402">Hillary Clinton</a>
+          </li>
+          <li class="topic-list-item">
+            <a href="/topics/truth-2979">Truth</a>
+          </li>
+          <li class="topic-list-item">
+            <a href="/topics/gun-control-4477">Gun control</a>
+          </li>
+          <li class="topic-list-item">
+            <a href="/topics/donald-trump-10206">Donald Trump</a>
+          </li>
+          <li class="topic-list-item">
+            <a href="/topics/political-campaigning-11689">Political campaigning</a>
+          </li>
+          <li class="topic-list-item">
+            <a href="/topics/2016-us-presidential-election-23653">2016 US Presidential Election</a>
+          </li>
+      </ul>
+    </div>
+
+
+      <div class="bottom">
+        
+  <aside class="content-targeted-share grid-ten grid-prepend-two large-grid-nine grid-last">
+    <ul>
+      <li class="twitter">
+        <a class="twitter-button button" data-url="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" data-id="66480" target="_blank" href="http://twitter.com/intent/tweet?text=Post-truth+politics+and+the+US+election%3A+why+the+narrative+trumps+the+facts&amp;url=http%3A%2F%2Ftheconversation.com%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480&amp;utm_campaign=none&amp;utm_medium=tweetbutton&amp;utm_source=twitter&amp;via=ConversationUS"><i class="icon-twitter"></i> <span>Tweet</span></a>
+      </li>
+
+      <li class="facebook">
+        <a class="facebook-button button" data-url="http://theconversation.com/post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480" data-id="66480" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftheconversation.com%2Fpost-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480&amp;utm_medium=facebookbutton&amp;utm_source=facebook"><i class="icon-facebook-simple"></i> <span>Share</span></a>
+      </li>
+      <li class="newsletter">
+        <a class="button newsletter-button" href="/us/newsletter">
+          <i class="icon-email"></i> Get newsletter
+</a>      </li>
+    </ul>
+  </aside>
+
+      </div>
+
+      
+
+    </div>
+
+    
+  <div class="grid-sixteen content-related-container">
+      <h3 class="thick-light-bordered slammed">You might also like</h3>
+      <div class="content-related-articles">
+        <div class="flex-group">
+            <div class="item">
+              <div class="page-area related-article">
+                <article data-id="64637" class="clearfix placed analysis published">
+    <figure>
+      <a class="article-link" href="/five-reasons-donald-trump-is-a-more-effective-orator-than-you-think-64637">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/136072/width1012x668/image-20160831-30768-15po70t.jpg" alt="" data-id="136072" />
+</a>        <figcaption>
+          <span class="caption">
+            
+          </span>
+          <span class="source" title="Source">Gage Skidmore</span>
+        </figcaption>
+    </figure>
+  <header>
+    <h2><a href="/five-reasons-donald-trump-is-a-more-effective-orator-than-you-think-64637">Five reasons Donald Trump is a more effective orator than you&nbsp;think</a></h2>
+  </header>
+</article>
+
+              </div>
+            </div>
+            <div class="item">
+              <div class="page-area related-article">
+                <article data-id="66124" class="clearfix placed analysis published">
+    <figure>
+      <a class="article-link" href="/trump-and-clinton-face-off-in-first-us-presidential-debate-experts-respond-66124">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/139356/width1012x668/image-20160927-20126-1ehlgy2.jpg" alt="" data-id="139356" />
+</a>        <figcaption>
+          <span class="caption">
+            The first presidential debate was marked by interruptions from Republican nominee Donald Trump.
+          </span>
+          <span class="source" title="Source">Reuters/Adrees Latif</span>
+        </figcaption>
+    </figure>
+  <header>
+    <h2><a href="/trump-and-clinton-face-off-in-first-us-presidential-debate-experts-respond-66124">Trump and Clinton face off in first US presidential debate: experts&nbsp;respond</a></h2>
+  </header>
+</article>
+
+              </div>
+            </div>
+        </div>
+        <div class="flex-group">
+            <div class="item">
+              <div class="page-area related-article">
+                <article data-id="66261" class="clearfix placed analysis published">
+    <figure>
+      <a class="article-link" href="/why-the-pundits-are-wrong-about-hillary-clinton-dominating-the-debate-66261">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/139669/width1012x668/image-20160928-27054-1bdxf6y.jpg" alt="" data-id="139669" />
+</a>        <figcaption>
+          <span class="caption">
+            Did Clinton really win the first debate?
+          </span>
+          <span class="source" title="Source">REUTERS/Brian Snyder</span>
+        </figcaption>
+    </figure>
+  <header>
+    <h2><a href="/why-the-pundits-are-wrong-about-hillary-clinton-dominating-the-debate-66261">Why the pundits are wrong about Hillary Clinton dominating the&nbsp;debate</a></h2>
+  </header>
+</article>
+
+              </div>
+            </div>
+            <div class="item">
+              <div class="page-area related-article">
+                <article data-id="60490" class="clearfix placed analysis published">
+    <figure>
+      <a class="article-link" href="/hillary-clinton-wins-democratic-nomination-the-experts-react-60490">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-echo="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/125673/width1012x668/image-20160608-3509-14vk68h.jpg" alt="" data-id="125673" />
+</a>        <figcaption>
+          <span class="caption">
+            Her moment.
+          </span>
+          <span class="source" title="Source">EPA/Peter Foley</span>
+        </figcaption>
+    </figure>
+  <header>
+    <h2><a href="/hillary-clinton-wins-democratic-nomination-the-experts-react-60490">Hillary Clinton wins Democratic nomination: the experts&nbsp;react</a></h2>
+  </header>
+</article>
+
+              </div>
+            </div>
+        </div>
+      </div>
+  </div>
+
+  </div>
+
+</article>
+
+
+
+<div id="comments-container"></div>
+
+  <div class="page-addendum">
+  <div class="wrapper">
+    <div class="grid-eight">
+      <div class="addendum-block most-popular">
+  <h3 class="thick-light-bordered slammed">Most popular on The Conversation</h3>
+  
+      <ul>
+          <li><a href="/why-kids-younger-than-12-dont-need-otc-cough-and-cold-remedies-67104">Why kids younger than 12 don’t need OTC cough and cold&nbsp;remedies</a></li>
+          <li><a href="/the-seeds-of-the-alt-right-americas-emergent-right-wing-populist-movement-69036">The seeds of the <span class="nobr">alt-right</span>, America’s emergent <span class="nobr">right-wing</span> populist&nbsp;movement</a></li>
+          <li><a href="/young-children-are-terrible-at-hiding-psychologists-have-a-new-theory-why-67979">Young children are terrible at hiding – psychologists have a new theory&nbsp;why</a></li>
+          <li><a href="/why-we-have-globalization-to-thank-for-thanksgiving-68638">Why we have globalization to thank for&nbsp;Thanksgiving</a></li>
+          <li><a href="/pleasure-is-good-how-french-children-acquire-a-taste-for-life-51949">Pleasure is good: How French children acquire a taste for&nbsp;life</a></li>
+      </ul>
+      <ul>
+          <li><a href="/how-the-archaeological-review-behind-the-dakota-access-pipeline-went-wrong-67815">How the archaeological review behind the Dakota Access Pipeline went&nbsp;wrong</a></li>
+          <li><a href="/why-so-many-people-regain-weight-after-dieting-65095">Why so many people regain weight after&nbsp;dieting</a></li>
+          <li><a href="/why-theres-so-much-backlash-to-the-theory-that-greek-art-inspired-chinas-terracotta-army-67488">Why there’s so much backlash to the theory that Greek art inspired China’s Terracotta&nbsp;Army</a></li>
+          <li><a href="/facebooks-problem-is-more-complicated-than-fake-news-68886">Facebook’s problem is more complicated than fake&nbsp;news</a></li>
+          <li><a href="/the-future-of-genetic-enhancement-is-not-in-the-west-63246">The future of genetic enhancement is not in the&nbsp;West</a></li>
+      </ul>
+</div>
+
+    </div>
+
+    <div class="grid-four">
+      <div class="addendum-block research-and-expert-database">
+  <h3 class="thick-light-bordered">Expert Database <i class="icon-the-conversation"></i></h3>
+
+  <form class="for formtastic expert_search_form" novalidate="novalidate" id="new_expert_search_form" action="/experts/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <fieldset class="inputs"><ol>
+      <li class="string input required stringish" id="expert_search_form_term_input"><label for="expert_search_form_term" class="label">Find experts with <span class='nobr'>knowledge in:</span><abbr title="required">*</abbr></label><input placeholder="e.g. Cyber Security" id="expert_search_form_term" type="text" name="expert_search_form[term]" />
+
+</li>
+</ol></fieldset>
+    <fieldset class="actions"><ol>
+      <li class="action input_action " id="expert_search_form_submit_action"><input type="submit" name="commit" value="Search" class="find-experts button moderately-huge primary" /></li>
+</ol></fieldset></form></div>
+
+    </div>
+
+    <div class="grid-four grid-last">
+      <div class="addendum-block want-to-write">
+  <h3 class="thick-light-bordered">Want to write?</h3>
+  <p>
+    Write an article and join a growing community of more than 43,100 academics and researchers from 1,849 institutions.
+  </p>
+  <p class="more">
+    <a class="button" href="/become-an-author">Register now</a>
+  </p>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+
+  <script src="https://theconversation.com/javascripts/lib/content_tracker_hook.js" id="theconversation_tracker_hook" data-counter="https://counter.theconversation.edu.au/content/66480/count" async="async"></script>
+
+
+
+    </div>
+
+    
+  <div id="footers">
+    
+    <section class="footer-primary">
+  <header>
+    <div class="wrapper nocontent">
+      <h2>The Conversation</h2>
+    </div>
+  </header>
+
+  <div class="wrapper nocontent">
+    <section class="community footer-link-list grid-five large-grid-four">
+      <h6>Community</h6>
+      <nav>
+        <ul>
+          <li><a href="/us/community-standards">Community standards</a></li>
+          <li><a href="/us/republishing-guidelines">Republishing guidelines</a></li>
+            <li><a href="/experts">Research and Expert Database</a></li>
+          <li><a href="/us/feeds"><i class="icon icon-rss-non-coloured"></i> Our feeds</a></li>
+
+        </ul>
+      </nav>
+    </section>
+
+    <section class="company footer-link-list grid-five large-grid-seven">
+      <h6>Company</h6>
+      <nav>
+        <ul>
+          <li><a href="/us/who-we-are">Who we are</a></li>
+          <li><a href="/us/charter">Our charter</a></li>
+          <li><a href="/us/team">Our team</a></li>
+          <li><a href="/us/partners">Partners and funders</a></li>
+          <li><a href="/institutions">Contributing institutions</a></li>
+          <li><a href="/us/resources-for-media">Resource for media</a></li>
+          <li><a href="/us/contact-us">Contact us</a></li>
+        </ul>
+      </nav>
+    </section>
+
+    <section class="footer-subscription grid-six large-grid-five grid-last">
+      <h3>Stay informed</h3>
+
+      <div class="newsletter-signup-form">
+        <h6>Subscribe to our Newsletters</h6>
+        <form action="/subscriptions" method="post" class="subscribe">
+  <fieldset>
+    <label class="subscribe-email-label" for="subscribe_email">
+      Email address
+    </label>
+
+    <div class="field-wrapper">
+      <input type="email" name="subscribe[email]" id="subscribe_email" value="" placeholder="Your email address" class="email" spellcheck="false" />
+      <i class="success-icon">✔</i>
+      <i class="icon-delete failure-icon"></i>
+      <img class="spinner-icon" src="/assets/spinner-a25feb0222a994468bf211976c47036a664ab4d3280c072d19a21d8d8eae8434.gif" alt="Spinner" />
+    </div>
+
+    <input type="hidden" name="subscribe[location]" id="subscribe_location" value="footer" />
+
+      <fieldset class="regions select-boxes region-select">
+  <select name="subscribe[region]" id="subscribe_region"><option value="africa">Africa</option>
+<option value="au">Australia</option>
+<option value="fr">France</option>
+<option value="global">Global</option>
+<option value="uk">United Kingdom</option>
+<option selected="selected" value="us">United States</option></select>
+</fieldset>
+
+
+    <input type="submit" name="submit" value="Subscribe" class="subscribe button subtle" />
+  </fieldset>
+</form>
+
+        <div class="sitewide-social-media">
+          <h6>Follow us on social media</h6>
+
+          <ul>
+            <li class="facebook">
+              <a title="The Conversation on Facebook" href="https://facebook.com/theConversationUS">
+                <i class="icon-facebook-simple"></i>
+</a>            </li>
+            <li>
+              <a title="The Conversation on Twitter" href="https://twitter.com/ConversationUS">
+                <i class="icon-twitter"></i>
+</a>            </li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+  </div>
+</section>
+
+    <footer id="footer">
+  <div class="wrapper nocontent">
+    <nav>
+      <a href="/us/privacy-policy">Privacy policy</a>
+      <a href="/us/terms-and-conditions">Terms and conditions</a>
+      <a href="/us/corrections">Corrections</a>
+      <script>
+  (function() {
+    var img = document.createElement('img'); img.width = 1; img.height = 1;
+    img.src = 'https://www.facebook.com/tr?id=1517004835184558&amp;ev=NoScript';
+    img.style.display = "none";
+    var s = document.getElementsByTagName('footer')[0]; s.parentNode.insertBefore(img, s);
+  })();
+</script>
+
+    </nav>
+    <p class="copyright">
+      <span>Copyright &copy; 2010–2016</span><span class="comma">, </span><span><a href="/us/who-we-are">The Conversation US, Inc.</a></span>
+    </p>
+  </div>
+</footer>
+
+  </div>
+
+  </div>
+
+  <script src="/assets/vendored-5301b625a579d6bb60a265358cafa5da2e66950e6a11643d679442d9e9f5a2a0.js"></script>
+<script src="/assets/application-562b6f5293b52b9190606a11fcb3254ffdc4b39d1a0be12efa267857a4381bc8.js"></script>
+  <script>
+//<![CDATA[
+
+  function notifyOfFailure(failure) {
+    var xmlHttpRequst = false;
+
+    if (window.XMLHttpRequest) { // non IE
+      xmlHttpRequst = new XMLHttpRequest();
+    } else if (window.ActiveXObject) { // IE
+      xmlHttpRequst = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+
+    // If AJAX supported
+    if(xmlHttpRequst != false) {
+      xmlHttpRequst.open("GET", failure, true);
+      xmlHttpRequst.send();
+    }
+  }
+
+  if (window.TC) {
+    $.i18n.init({
+      fallbackLng: 'en',
+      resGetPath: '/assets/en_us-a574185168f702694dc83fd9b0fd6e890bc3bfc946fedfccb4c36d5f186fab67.json',
+      lng: 'en_us'
+    }, function(err, t) {
+      if (err && err.length) {
+        notifyOfFailure("/no_js_locale?message=" + err[0]);
+      }
+      TC.time = new TC.TimeFormatter('en_us')
+      TC.currentUser = new TC.User(null);
+        TC.page = new TC.ContentPage({
+    content_id: 66480,
+    content_slug: "post-truth-politics-and-the-us-election-why-the-narrative-trumps-the-facts-66480",
+    comments_closed_at: ""
+  });
+
+    });
+  } else {
+    notifyOfFailure("/no_assets");
+  }
+
+//]]>
+</script>
+
+  
+</body>
+</html>

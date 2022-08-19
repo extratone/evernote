@@ -1,0 +1,2922 @@
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title>Designing Impact</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Icons -->
+        <link rel="shortcut icon" href="https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/favicon.ico">
+        <link rel="apple-touch-icon" href="https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/touch-icon-ipad.png">
+        <meta name="application-name" content="theatlantic.com">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-TileImage" content="https://cdn.theatlantic.com/assets/static/a/theatlantic/common/img/touch-icon-ipad.png">
+
+        <!-- Meta -->
+        <meta property="og:site_name" content="theatlantic.com">
+        <meta property="og:locale" content="en_US">
+        <meta property="fb:admins" content="577048155,17301937">
+        <meta property="fb:page_id" content="29259828486">
+        <meta property="fb:app_id" content="100770816677686">
+
+        
+            <link rel="canonical" href="http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/" />
+        
+        <link rel="image_src" href="https://cdn.theatlantic.com/assets/media/img/sponsored/2017/09/initial/resp-feature.png">
+        <meta name="description" content="A brief tour through the ideas and inventions that brought us the smart buildings of today" />
+
+        <meta property="og:description" content="A brief tour through the ideas and inventions that brought us the smart buildings of today">
+        <meta property="og:image" content="https://cdn.theatlantic.com/assets/media/img/sponsored/2017/09/initial/resp-feature.png">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:site_name" content="The Atlantic">
+        <meta property="og:title" content="Designing Impact">
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/" />
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@TheAtlantic">
+        <meta name="twitter:title" content="Designing Impact">
+        <meta name="twitter:description" content="A brief tour through the ideas and inventions that brought us the smart buildings of today">
+        <meta name="twitter:image" content="https://cdn.theatlantic.com/assets/media/img/sponsored/2017/09/initial/resp-feature.png">
+
+        
+            <meta name="moat:category" content="auto">
+        
+
+        
+
+        
+            <!-- Header CSS -->
+            <link href="https://cdn.theatlantic.com/assets/static/a/theatlantic/css/sponsored.min.0fe844a7b537.css" rel="stylesheet" type="text/css" />
+            <link href="https://cdn.theatlantic.com/assets/static/a/sponsored/css/responsive.0f7a90626d27.css" rel="stylesheet" type="text/css" />
+
+            
+
+            <!-- Header Javascript -->
+            <script>
+                var Atlantic = {};
+                Atlantic.page_info = {
+  "domain": "www.theatlantic.com", 
+  "campaign": "JPMC 2017", 
+  "image": "https://cdn.theatlantic.com/assets/media/img/sponsored/2017/09/initial/resp-feature.png", 
+  "campaign_slug": "jpmc-2017", 
+  "channels": [], 
+  "article_type": "", 
+  "is_features": true, 
+  "is_hidden_from_river": false, 
+  "twitter_image": "", 
+  "canonical_url": "http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/", 
+  "is_amp": false, 
+  "is_freelance": false, 
+  "original_url": "http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/", 
+  "template_set": "Responsive", 
+  "seo_title": "Designing Impact", 
+  "site_url": "http://www.theatlantic.com", 
+  "primary_channel": "Sponsored - JPMC 2017", 
+  "is_mobile": false, 
+  "share_dek": "A brief tour through the ideas and inventions that brought us the smart buildings of today", 
+  "is_instant": false, 
+  "share_title": "Designing Impact", 
+  "description": "A brief tour through the ideas and inventions that brought us the smart buildings of today", 
+  "tags": [], 
+  "twitter_url": "/sponsored/jpmc-2017/designing-impact/1473/", 
+  "is_404": false, 
+  "kicker": "", 
+  "authors": [], 
+  "date": "2017-09-15T15:46:21-04:00", 
+  "path": "/sponsored/jpmc-2017/designing-impact/1473/", 
+  "article_id": "sc1473", 
+  "categories": [], 
+  "share_text": "A brief tour through the ideas and inventions that brought us the smart buildings of today", 
+  "url": "http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/", 
+  "is_sponsored": true, 
+  "title": "Designing Impact", 
+  "og_type": "article", 
+  "report": "", 
+  "view": "article", 
+  "sponsor": "JPMC"
+};
+                Atlantic.STATIC_URL = "https://cdn.theatlantic.com/assets/static/a/";
+                Atlantic.MEDIA_URL = "https://cdn.theatlantic.com/assets/media/";
+                Atlantic.GTM = {
+                    quantcastLabels: [".Sponsor Content.Sponsor.JPMC", ".Sponsor Content.Campaign.JPMC 2017", ".Sponsor Content.Campaign.JPMC 2017.Designing Impact"],
+                    simplereach: {"is_404": false, "conf": {"channels": [], "date": "2017-09-15T15:46:21", "title": "Designing Impact", "url": "http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/", "authors": [], "tags": ["sponsored"], "page_url": "http://www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/?sr_source=lift_amplify&utm_source=NL_ATL_O_1473_1"}}
+                };
+
+                // Used for comment counts
+                var disqus_shortname = 'atlantic-sponsored';
+                var s_account = "atlanticsponsorprod";
+            </script>
+
+            
+            <script src="https://cdn.theatlantic.com/assets/static/a/js/advertisement.2.js"></script>
+
+            <script type="text/javascript" src="https://cdn.theatlantic.com/assets/static/a/sponsored/js/responsive-head.cdd88ba1ab6c.js" charset="utf-8"></script>
+            
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56LJR35');</script>
+
+
+
+
+            <!-- Optimizely -->
+            <script src="https://cdn.optimizely.com/js/335305610.js"></script>
+
+            <!-- Custom Campaign styles and scripts -->
+            <style>
+
+.article-938 .article-header h1{
+    font-size:54px;
+}
+
+.interactive-directions{
+margin:-40px 0 40px 0; 
+padding-top:0; 
+color:#E77760;
+padding-bottom:10px;
+border-bottom:1px solid #ccc;
+}
+
+.sponsor-header{
+    width:auto;
+}    
+    
+.sponsor-header .sponsor-logo{
+    width:auto;
+}    
+    
+.article-header .dek{
+    font-family: "sofia-pro";
+    font-size:17px;
+    line-height:24px;
+}    
+    
+.article-header h1{
+    font-family: "sofia-pro";
+    font-size:60px;
+    border-bottom:10px solid #E77760;
+}
+
+.sharekit.vertical+p{
+    padding-top:10px;
+}
+
+.jpmc-gallery{
+    width:80%;
+    margin:40px auto 0 auto;
+    padding:0 5%;
+    /*background-color: #e5e5e5;*/
+    text-align:center;
+    max-width:1000px;
+}
+
+.jpmc-gallery figure figcaption{
+    max-width:660px;
+    padding-top:18px;
+    text-align:left;
+    margin:0 auto 20px auto;
+    font-size:.7em;
+    color:#aaa;
+    line-height:1.66;
+    font-family:"sofia-pro";
+}
+
+.first-sentence{
+    font-family: "sofia-pro";
+    color:#E77760;
+    font-weight:700;
+    margin-top:60px;
+}
+
+.article-header .dek{
+    margin:20px 0 60px;
+}
+
+.jpmc-gallery img{
+    max-width:800px;
+    width:100%;
+}
+
+.jpmc-pic-quote{
+    margin:40px auto;
+    max-width:1000px;
+    position:relative;
+    height:450px;
+}
+
+
+.jpmc-pic-quote figure{
+    max-width:300px;
+    display:inline-block;
+    margin:0;
+    vertical-align: top;
+}
+
+.quote-side{
+    /*background-color: #e5e5e5;*/
+    display:inline-block;
+    color:#f16438;
+    height:450px;
+    position:relative;
+    text-align:left;
+    vertical-align: top;
+    margin-left:20px;
+    font-family: "sofia-pro";
+}
+
+.quote-side p{
+    position:absolute;
+    bottom:-6px;
+    left:40px;
+    width:260px;
+    margin:0;
+    padding-top:20px;
+    font-weight:400;
+    color:#aaa;
+    /*border-top:6px solid #f16438;*/
+}
+
+.gallery-2{
+    margin:40px auto 0;
+    text-align:center;
+    width:1000px;
+    position:relative;
+}
+
+.gallery-2 figure{
+    display:inline-block;
+    width:240px;
+    margin:0 4px;
+}
+
+.photo-cap{
+    font-size:.7em;
+    color:#909090;
+    margin:16px auto 40px auto;
+    font-family: "sofia-pro";
+    text-align:left;
+    line-height:1.66;
+    margin-top:10px;
+    max-width:660px;
+}
+
+@media(max-width:1000px){
+     .gallery-2{
+        width:100%;
+    }
+    
+    .gallery-2 figure{
+        width:46%;
+        margin:1%;
+    }
+}
+
+@media(max-width:880px){
+    .interactive-directions{
+margin:0 0 40px 0; 
+padding-top:0; 
+color:#E77760
+}
+}
+
+@media(max-width:800px){
+     figure.main-graphic img{
+        width:100%;
+        margin-left:0;
+        left:0;
+    }
+}
+
+@media(max-width:768px){
+    
+    .article-header h1{
+        font-size:48px;
+    }
+    
+    .article-header .dek{
+        font-size:15px;
+        line-height:24px;
+    }
+    
+    .jpmc-gallery{
+        background-color:none;
+        width:40px auto;
+        padding:0;
+    }
+    
+    .quote-side p{
+        width:146px;
+        left:0;
+    }
+    
+    .jpmc-pic-quote{
+        width:470px;
+    }
+    
+    
+}
+   
+    
+@media(max-width:600px){
+    
+    .sponsor-header{
+        width:100%;
+    }
+    
+    .article-header h1{
+        font-size:36px;
+        margin:120px 0 20px;
+    }
+    
+    .jpmc-pic-quote{
+        height:auto;
+    }
+    
+    .jpmc-pic-quote figure{
+        width:100%;
+        max-width:100%;
+    }
+
+    .quote-side{
+        height:auto;
+        margin-left:auto;
+    }
+
+    .quote-side p{
+        width:auto;
+        position:relative;
+        bottom:0;
+    }
+    
+    .gallery-2{
+        margin:40px auto 0;
+        width:100%;
+    }
+    
+    .gallery-2 figure{
+        /*width:140px;*/
+        margin-top:8px;
+    }
+    
+    .gallery-2-row img{
+        margin:0;
+    }
+    
+    .jpmc-pic-quote{
+        width:100%;
+        margin:40px auto;
+    }
+    
+    .jpmc-gallery figure figcaption{
+        margin:0 4% 40px 4%;
+    }
+    
+    .jpmc-gallery{
+        width:100%;
+    }
+    
+}
+
+@media(max-width:500px){
+    .sponsor-header .sponsor-logo{
+        width:150px;
+    }
+    
+    .jpmc-pic-quote{
+        margin:40px auto;
+    }
+    
+    .first-sentence{
+        margin-top:40px;
+    }
+}
+
+@media(max-width:400px){
+    .sponsor-header .sponsor-logo{
+        min-width:200px;
+        float:left;
+        height:20px;
+        margin-left:10px;
+    }
+    
+    .sponsor-header .meta{
+        margin:10px 10px 0;
+    }
+}
+    
+</style>
+
+
+
+
+
+            
+                <script type="text/javascript">
+(function (s) {
+    // Set all mandatory properties that don't change.
+    s.account = "atlanticsponsorprod";
+    s.charSet="UTF-8";
+    s.currencyCode="USD";
+    s.trackDownloadLinks=true;
+    s.trackExternalLinks=true;
+    s.trackInlineStats=true;
+    s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+    s.linkInternalFilters="javascript:,thewire.com,citylab.com,theatlantic.com,localhost";
+    s.linkLeaveQueryString=false;
+    s.linkTrackVars="None";
+    s.linkTrackEvents="None";
+    s.visitorNamespace="atlanticmedia";
+    s.trackingServer="atlanticmedia.122.2o7.net";
+
+    // Optimizely Adobe Analytics SiteCatalyst Integration
+     window.optimizely = window.optimizely || [];
+     window.optimizely.push("activateSiteCatalyst");
+
+    // We don't want to track page views for iframes loaded on TheAtlantic.com
+    // to prevent pages from being double counted
+    var track_page_views = true;
+    try {
+        if (window.parent !== window && window.parent.location.hostname === "www.theatlantic.com") {
+            track_page_views = false;
+        }
+    } catch(e) {}
+
+    if (track_page_views && s.t) {
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code = s.t();
+        if (s_code) document.write(s_code)
+        if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-');
+    }
+})(window.s);
+</script>
+<noscript><img src="http://atlanticmedia.122.2o7.net/b/ss/atlanticsponsorprod/1/H.23.6--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.6. -->
+
+            
+
+            <!--[if lt IE 9]>
+                <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+            <![endif]-->
+
+        
+
+        
+<style>
+
+.sticky-header-bar{
+    z-index:99999999999999999999999999999999;
+}
+
+.sticky-header-bar{
+    border: 1px solid #f6f1ef;
+        background-color: #fff9f6;
+}
+
+.sharebug .button{
+    display:none;
+}
+
+.sharebug{
+    top:10px;
+    right:10px;
+}
+
+.features-header{
+    display:none;
+}
+
+#sponsored-article .article-header, #sponsored-feature .article-body>section, #sponsored-feature .centered-article, #sponsored-feature .sharekit.article-footer, #sponsored-feature .wrap-pullquote .pullquote{
+    width:initial;
+}
+
+a{
+    color:#5fa3c0;
+}
+
+.sponsor-header{
+    z-index:99999999999999999999;
+}
+
+.social-icon.email{
+    display:none !important;
+}
+
+.sharekit.vertical li{
+    display:inline-block;
+}
+
+.sponsored-author-details{
+    position: relative;
+    border-top: initial;
+    border-bottom: initial;
+    color: #727272;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 0;
+    text-align:center;
+    background: #f9f9f9;
+}
+
+#site-footer{
+    margin:0;
+}
+
+ul.sources{
+    padding: 0;
+    max-width: 500px;
+    list-style: none;
+    margin: 40px auto 0;
+    padding-top: 20px;
+    border-top: 1px solid #ddd5d0; 
+}
+
+ul.sources li{
+    font-style: oblique;
+    font-size: .65em;
+    display: block;
+    margin-top: 9px;
+    color: #a8a8a8;
+    /* border-top: 1px solid #ddd5d0; */
+    /* padding-top: 7px; */
+    font-weight: 100;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    line-height: 1.7em;
+}
+
+.article-river{
+    margin:30px auto 0;
+    padding-bottom: 80px;
+}
+
+.sponsored-author-details.no-authors .sponsor{
+    margin: 50px 0;
+}
+
+.sharekit.social-btns-left{
+    background-color:#f9f9f9;
+    width:100%;
+}
+
+.more-from-sponsor {
+    z-index: 10000000;
+    position: relative;
+    background-color: #f9f9f9;
+}
+
+.more-from-sponsor .section-header{
+    margin-top:0;
+    padding-top:40px;
+}
+
+.ad-container{
+    background-color: #f9f9f9;
+    margin: 0 auto;
+    padding: 40px 0;
+    z-index: 10000000000000;
+    position: relative;
+}
+
+.sharekit.social-btns-left{
+    text-align:center;
+    margin:0 auto;
+}
+
+.line{
+    width:100%;
+    border-top:1px solid;
+    bottom:50vh;
+    position:absolute;
+    z-index:-1px;
+    color:#ccc;
+    display:none;
+}
+
+.is-open {
+    top: 0;
+}
+
+.is-closed {
+    top: -50px;
+}
+
+.main-graphic{
+    height:0;
+    overflow:hidden;
+}
+
+.header-inner{
+    max-width: 500px;
+    width: 90%;
+    padding: 30px;
+    border-radius: 11px;
+    text-align: center;
+    background: #fff;
+    margin:auto;
+}
+
+.header-inner p{
+    font-size: 14px;
+    font-family: "sofia-pro";
+    margin-top: 0;
+    font-weight: 700;
+}
+
+body{
+    background:#ddd5d0;
+}
+
+.footer-end{
+    padding: 0 2% 10vh;
+    width: 46%;
+    margin-left: 50%;
+}
+
+.footer-end p{
+    max-width: 500px;
+    width: 90%;
+    margin: 10vh auto 0;
+    padding: 40px 0 0;
+    color: #8f8d8d;
+    font-style: oblique;
+    border-top: 1px solid #d7d2d2;
+}
+
+.article-body .sharekit.vertical{
+    float: right;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position: fixed;
+    z-index: 400;
+    right: 10px;
+    top: 20px;
+    margin: 0;
+    opacity:1;
+    z-index: 100000000;
+}
+
+.sharekit .social-icon{
+    display: inline-block;
+    width: 50px;
+    padding: 10px;
+    font-size: 22px;
+    border: 1px solid #e2dfd9;
+    margin: 0 15px 0 0;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius:30px;
+    background-color:initial;
+}
+
+.article-body{
+    position: relative;
+    width: auto;
+    margin: 0;
+    background: #efe9e5;
+    padding-bottom: 20px;
+}
+
+.intro{
+    padding: 0 2%;
+    display:block;
+    width: 46%;
+    position:relative;
+    z-index:9999999999999999999;
+    margin-left: 50%;
+    margin-top:-22vh;
+}
+
+.intro p{
+    max-width: 500px;
+    width: 90%;
+    margin: 1em auto;
+}
+
+.conclusion{
+    padding: 10vh 2% 0;
+    display:block;
+    width: 46%;
+    margin-left: 50%;
+}
+
+.conclusion p{
+    max-width: 500px;
+    width: 90%;
+    margin: 1em auto;
+}
+
+#top-content{
+    min-height:auto;
+}
+
+#sponsored-article .article-body>section, #sponsored-article .article-header, #sponsored-article .centered-article, #sponsored-article .wrap-pullquote .pullquote{
+    width:100%;
+}
+
+.article-header .dek{
+    display:none;
+}
+
+#sponsored-article .article-header{
+    display:none;
+}
+
+.copy{
+    z-index: 2000000;
+    position: relative;
+}
+
+.header-lockup{
+    height: 100vh;
+    width: 46%;
+    padding: 0;
+    right: 0;
+    margin-left: 52%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: start;
+    position: relative;
+}
+
+p span{
+    font-family: "sofia-pro";
+    font-size: .9em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.header-inner h1{
+    font-family: "sofia-pro";
+    font-size: 80px;
+    color:#042e42;
+    line-height: .92em;
+    letter-spacing: -.02em;
+    margin: 14px 0 0;
+    /* font-weight: 100; */
+}
+
+.header-inner h2{
+    font-size: 1em;
+    font-weight: 400;
+    font-family: "sofia-pro";
+    line-height: 1.4em;
+    margin: 24px auto 4px;
+    color: #838282;
+    max-width: 400px;
+}
+
+.header-inner h3{
+    margin: 0 0 0 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: .05em;
+    font-family: "sofia-pro";
+    /*border-top: 2px solid #585858;*/
+    /*padding-top: 10px;*/
+    font-weight: 900;
+    color: #d43a26;
+}
+
+.header-lockup h4{
+    margin: 0 0 0 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    line-height: 1em;
+    letter-spacing: .05em;
+    font-family: "sofia-pro";
+    font-weight: 100;
+    color: #979797;
+    padding-top: 10px;
+    font-weight: 700;
+    /* position: absolute; */
+    bottom: 10vh;
+}
+
+.year{
+    padding: 10vh 2% 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    width: 46%;
+    margin-left: 50%;
+}
+
+.year-inner{
+    max-width: 500px;
+    width: 90%;
+    margin: 0 0 0;
+    padding: 30px;
+    background: #fff;
+    border-radius: 11px;
+}
+
+.year-inner p{
+    margin:0;
+    line-height: 1.6em;
+}
+
+.year-inner h3{
+    font-size: .8em;
+    font-family: "sofia-pro";
+    margin: 0;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    font-weight:800;
+}
+
+.year-inner h3 span{
+    color: #d43a26;
+}
+
+.year-inner h1{
+    font-family: "sofia-pro";
+    line-height: 1.15em;
+    font-size: 2em;
+    color: #042e42;
+    margin: 0 0 8px;
+    letter-spacing: -.02em;
+}
+
+.year-inner p span{
+    font-style: oblique;
+    font-size: .65em;
+    display: block;
+    margin-top: 21px;
+    color: #a8a8a8;
+    border-top: 1px solid #ddd5d0;
+    padding-top: 7px;
+    font-weight: 100;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    -ms-word-break: break-all;
+    word-break: break-word;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    line-height: 1.7em;
+}
+
+.building{
+    display: block;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 500px;
+    background-size: 95%;
+    height: 100%;
+    /*background-image: url(https://cdn.theatlantic.com/assets/media/files/jpmc-test.jpg);*/
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/initial.png);
+     
+    /*max-height: 800px;*/
+    opacity: 1;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    background-color: #f8f1ee;
+    background-blend-mode: multiply;
+}
+
+.building-container{
+    height: 100vh;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: fixed;
+    background: #f8f1ee;
+    top: 0;
+    width: 50%;
+    left: 0;
+}
+
+.gallery-inner{
+    position:relative;
+    margin:auto;
+}
+    
+.one-eight-seven-nine.show,
+.one-eight-eight-two.show,
+.one-eight-eight-five.show,
+.one-eight-eight-nine.show,
+.one-eight-nine-four.show,
+.one-nine-six-two.show,
+.one-nine-seven-three.show,
+.one-nine-nine-zero.show,
+.one-nine-nine-eight.show,
+.two-zero-one-six.show,
+.two-zero-one-seven.show
+{
+    opacity:1;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    background-color:#f8f1ee;
+}    
+
+.article-body .sharekit.vertical.hide{
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+    
+.one-eight-seven-nine{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1879.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-eight-eight-two{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1882.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-eight-eight-five{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1885.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-eight-eight-nine{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1889.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-eight-nine-four{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1894.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-nine-six-two{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1962.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-nine-seven-three{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1973_v2.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-nine-nine-zero{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1990.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.one-nine-nine-eight{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/1998.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.two-zero-one-six{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/2016.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.two-zero-one-seven{
+    top:0;
+    max-width: 500px;
+    width:100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 95%;
+    height: 100%;
+    background-image: url(https://cdn.theatlantic.com/assets/media/files/2017.png);
+    opacity:0;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    position:absolute;
+    /*background-color: #e3dedb;*/
+    background-blend-mode: multiply;
+}
+
+.mobile-header-img{
+    display:none;
+}
+
+.switch-off{
+    display:none;
+}
+
+.desktop{
+    display:block;
+}
+
+.mobile{
+    display:none;
+}
+
+
+@media (max-width: 900px) {
+    
+    .switch-off{
+        display:block;
+    }
+    
+    .mobile{
+        display:block;
+    }
+    
+    .desktop{
+        display:none;
+    }
+    
+    .mobile-header-img{
+        display: none;
+        margin-top: 20px;
+        background-image: url(https://cdn.theatlantic.com/assets/media/files/jpmc-test.jpg);
+        background-size: 90%;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-blend-mode: multiply;
+        background-color: #f5efeb;
+        max-width:600px;
+        width: 500px;
+        height:100vh;
+        max-height: 800px;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+    
+    #sponsored-article .article-body>section, #sponsored-article .article-header, #sponsored-article .centered-article, #sponsored-article .wrap-pullquote .pullquote{
+        max-width:820px;
+        width:90%;
+    }
+    
+    .article-body .sharekit.vertical{
+        float: none;
+        -webkit-transition: all 0.5s ease-in-out;
+        -o-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
+        position: relative;
+        z-index: 400;
+        right: initial;
+        top: 40px;
+        margin: 0;
+        opacity: 1;
+        text-align: center;
+        display:none !important;
+    }
+    
+    .building{
+        width: 100%;
+        background-size:80%;
+    }
+    
+    .building-container{
+        max-width: 600px;
+        background:initial;
+        margin:0;
+        width:90%;
+        left: 50%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .year{
+        padding:50vh 0;
+        /*max-width:600px;*/
+        width:90%;
+        display:block;
+        margin:0 auto;
+    }
+    
+    .year-inner{
+        max-width: 600px;
+        width:90%;
+        margin:auto;
+        padding: 30px 5%;
+        background: #fafafa;
+    }
+    
+    .header-lockup{
+        max-width:600px;
+        width:90%;
+        margin:0 auto;
+        margin: 100vh auto 0;
+        height:auto;
+    }
+    
+    .gallery-inner{
+        max-width:820px;
+        width:90%;
+    }
+
+    
+    .gradient-up{
+        width:100%;
+        height:50px;
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ededed+0,ededed+34,ededed+100&1+2,0+91,0+91 */ /* FF3.6-15 */
+background: -webkit-linear-gradient(bottom, rgba(237,237,237,1) 0%,rgba(237,237,237,1) 2%,rgba(237,237,237,0.64) 34%,rgba(237,237,237,0) 91%,rgba(237,237,237,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -webkit-gradient(linear, left bottom, left top, from(rgba(237,237,237,1)),color-stop(2%, rgba(237,237,237,1)),color-stop(34%, rgba(237,237,237,0.64)),color-stop(91%, rgba(237,237,237,0)),to(rgba(237,237,237,0)));
+background: -o-linear-gradient(bottom, rgba(237,237,237,1) 0%,rgba(237,237,237,1) 2%,rgba(237,237,237,0.64) 34%,rgba(237,237,237,0) 91%,rgba(237,237,237,0) 100%);
+background: linear-gradient(to top, rgba(237,237,237,1) 0%,rgba(237,237,237,1) 2%,rgba(237,237,237,0.64) 34%,rgba(237,237,237,0) 91%,rgba(237,237,237,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#00ededed',GradientType=0 ); /* IE6-9 */
+        height: 6px;
+        display:none;
+    }
+    
+    .gradient-down{
+        width:100%;
+        height:50px;
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ededed+0,ededed+34,ededed+100&1+2,0+91,0+91 */ /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(237,237,237,1) 0%,rgba(237,237,237,1) 2%,rgba(237,237,237,0.64) 34%,rgba(237,237,237,0) 91%,rgba(237,237,237,0) 100%); /* Chrome10-25,Safari5.1-6 */
+background: -webkit-gradient(linear, left top, left bottom, from(rgba(237,237,237,1)),color-stop(2%, rgba(237,237,237,1)),color-stop(34%, rgba(237,237,237,0.64)),color-stop(91%, rgba(237,237,237,0)),to(rgba(237,237,237,0)));
+background: -o-linear-gradient(top, rgba(237,237,237,1) 0%,rgba(237,237,237,1) 2%,rgba(237,237,237,0.64) 34%,rgba(237,237,237,0) 91%,rgba(237,237,237,0) 100%);
+background: linear-gradient(to bottom, rgba(237,237,237,1) 0%,rgba(237,237,237,1) 2%,rgba(237,237,237,0.64) 34%,rgba(237,237,237,0) 91%,rgba(237,237,237,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ededed', endColorstr='#00ededed',GradientType=0 ); /* IE6-9 */
+        height: 6px;
+        display:none;
+    }
+    
+    .building-container{
+        width:100%;
+    }
+    
+    .article-body{
+        margin:0;
+        background-color:#f8f1ee;
+    }
+    
+    
+    .header-lockup{
+        width: 90%;
+        /*
+        background: -moz-linear-gradient(top, rgba(0,0,0,0) -1%, rgba(0,0,0,0.01) 60%, rgba(237,237,237,0.76) 67%, rgba(237,237,237,1) 71%, rgba(237,237,237,1) 100%);
+        background: -webkit-linear-gradient(top, rgba(0,0,0,0) -1%,rgba(0,0,0,0.01) 60%,rgba(237,237,237,0.76) 67%,rgba(237,237,237,1) 71%,rgba(237,237,237,1) 100%);
+        /* background: linear-gradient(to bottom, rgba(0,0,0,0) -1%,rgba(0,0,0,0.01) 60%,rgba(237,237,237,0.76) 67%,rgba(237,237,237,1) 71%,rgba(237,237,237,1) 100%); 
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#ededed',GradientType=0 );*/
+        padding: 0;
+        height: 100vh;
+        /* height: initial; */
+        /* display: block; */
+        position: relative;
+        /* margin: -100px 0 0; */
+        margin: 0 auto 50vh;
+    }
+    
+    .intro{
+        width: 80%;
+        background: #fafafa;
+        margin: 40px auto 50vh;
+        padding: 5%;
+        max-width: 600px;
+        border-radius: 11px;
+        /* padding: 0; */
+        /* background-color: initial; */
+    }
+    
+    .intro p{
+        max-width:initial;
+        width:100%;
+    }
+    
+    .conclusion{
+        padding: 5%;
+        width:80%;
+        border-radius:11px;
+        margin:25vh auto 0;
+        max-width: 600px;
+        background: #fafafa;
+    }
+    
+    .conclusion p{
+        max-width:initial;
+        width:100%;
+    }
+    
+    .footer-end{
+        padding: 5%;
+        width: 80%;
+        margin: 10px auto 10vh;
+        max-width: 600px;
+        background: #e5e0dd;
+        border-radius:11px;
+    }
+    
+    .footer-end p.footer{
+        max-width: initial;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        border-top:none;
+    }
+    
+    #sponsored-article .article-body>section, #sponsored-article .article-header, #sponsored-article .centered-article, #sponsored-article .wrap-pullquote .pullquote{
+        width:100%;
+        padding:0;
+    }
+    
+    .header-inner{
+        position: relative;
+        bottom: initial;
+        background: #fafafa;
+        width: auto;
+        padding: 30px 40px;
+        width:100%;
+        max-width:600px;
+        border-radius:11px;
+    }
+    
+    .header-inner h1{
+        text-align:center;
+        font-size:48px;
+        margin: 14px 0 0;
+    }
+    
+    .header-inner h2{
+        margin: 14px auto 0;
+        text-align: center;
+        font-size:15px;
+        max-width: 370px;
+    }
+    
+    .header-inner h3{
+        margin: 0 0 0 0;
+        text-align: center;
+        border-top: none;
+        padding-top: 0; 
+    }
+    
+    .header-inner h4{
+        padding: 0;
+        margin: 22px auto 0;
+        text-align: center;
+        border-top:none;
+        position:relative;
+        bottom:initial;
+    }
+    
+    .gallery-inner{
+        width:100%;
+    }
+    
+    .one-eight-seven-nine,
+    .one-eight-eight-two,
+    .one-eight-eight-five,
+    .one-eight-eight-nine,
+    .one-eight-nine-four,
+    .one-nine-six-two,
+    .one-nine-seven-three,
+    .one-nine-nine-zero,
+    .one-nine-nine-eight,
+    .two-zero-one-six,
+    .two-zero-one-seven{
+        background-color:#efe9e5;
+        max-width:initial;
+        background-size:80%;
+    }
+    
+    .one-eight-seven-nine{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-eight-eight-two{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-eight-eight-five{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-eight-eight-nine{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-eight-nine-four{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-nine-six-two{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-nine-seven-three{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-nine-nine-zero{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .one-nine-nine-eight{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .two-zero-one-six{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+    .two-zero-one-seven{
+        width: 100%;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+    }
+    
+}
+
+@media (max-width: 602px) {
+    
+    .year-inner h1{
+        font-size:29px;
+    }
+    
+    .year-inner h3{
+        font-size:12px;
+    }
+    
+    .year-inner p{
+        font-size:16px;
+    }
+    
+    .year-inner p span{
+        font-size:11px;
+    }
+    
+    .header-lockup{
+        margin: -80px auto 50vh;
+        width:95%;
+    }
+    
+    .header-inner{
+        padding:20px 20px;
+    }
+    
+    .header-inner h3{
+        font-size: 11px;
+    }
+    
+    .header-inner h4{
+        margin: 18px auto 0;
+        font-size:11px;
+    }
+    
+    .header-inner h1{
+        font-size: 31px;
+        letter-spacing: -1px;
+    }
+    
+    .year{
+        width:95%;
+    }
+    
+    .intro{
+        width:85%;
+        font-size:16px;
+    }
+    
+    .conclusion{
+        width:85%;
+        font-size:16px;
+    }
+    
+    .footer-end{
+        width:85%;
+    }
+    
+    .footer-end p.footer{
+        font-size:16px;
+    }
+    
+}
+
+</style>
+
+
+    </head>
+    <body>
+    
+    <div id="sponsored-feature" class="page no-infinite-scroll loaded-directly site-theatlanticcom" >
+        
+            
+
+            
+            
+
+            
+
+
+            <div id="main-container" class="features-article-1473">
+
+                <header class="sponsor-header">
+                    <a href="/" class="site-logo">theatlantic.com</a>
+                    <div class="meta">
+                        <span>Sponsor Content:</span>
+                        <span>What's this?</span>
+                    </div>
+
+                    
+
+<div class="sponsor-logo sponsored-modules"
+     data-location-label="Sponsored Logo"
+     data-location-slug="campaign-sponsor-logo">
+    
+    
+    <div class="sponsored-module sponsored-module-10476" 
+         data-edit-only="1"
+         data-pk="10476" 
+         data-omni-click="r'jpmc-2017',r'campaign-sponsor-logo',r'logo'"
+         data-module-name="Logo">
+        <a href="https://www.jpmorganchase.com/" data-omni-click="inherit" rel="nofollow" 
+    target="_blank">
+    <img class="sponsored-img-module" src="https://cdn.theatlantic.com/assets/media/img/custom/2017/03/23/jpmc02.png" alt="Logo" />
+</a>
+
+    </div>
+    
+    
+</div>
+
+
+
+                    <div class="tooltip">
+                        This Content is made possible by our Sponsor; it is not written by and does not necessarily reflect the views of <em>The Atlantic's</em> editorial staff. See our <a href="http://cdn.theatlantic.com/static/front/docs/ads/TheAtlanticAdvertisingGuidelines.pdf">Advertising Guidelines</a>, or email <a href="mailto:advertising@theatlantic.com">advertising@theatlantic.com</a> to learn more.
+                    </div>
+                </header>
+
+                <div id="top-content">
+    
+        
+
+<ul class="sponsored-modules module-campaign-top"
+    data-location-label="Campaign top"
+    data-location-slug="campaign-top">
+
+    <li class="sponsored-module sponsored-module-10536" 
+        data-pk="10536" 
+        data-omni-click="r'jpmc-2017',r'campaign-top',r'header-script'"
+        data-module-name="header script">
+            <div class="sponsored-module-html"><script src="https://use.typekit.net/nfk8xzm.js"></script><script>try{Typekit.load({ async: true });}catch(e){}</script></div>
+    </li>
+
+</ul>
+    
+</div>
+
+                
+
+    <div class="sticky-header-bar">
+        <span class="label"><a href="/" class="logo"></a>Sponsor Content</span>
+        <span class="title">Designing Impact</span>
+        <div class="sharebug">
+            <span class="button" data-alt-text="Collapse">Share</span>
+            
+
+    
+    <ul class="sharekit vertical" data-omni-click="r'stickyheader',@data-share,l.pathname"><li><a data-omni-click="inherit" href="#" class="social-icon facebook" data-share="facebook" data-omni-click="r'share-fb',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon twitter" data-share="twitter"
+            
+            
+            
+            
+                data-share-url="/sponsored/jpmc-2017/designing-impact/1473/"
+            
+            data-omni-click="r'share-tweet',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon googleplus" data-share="googleplus" data-omni-click="r'share-google',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon linkedin" data-share="linkedin" data-omni-click="r'share-linkedin',l.pathname"></a></li><li><a data-omni-click="inherit" href="mailto:?subject=Designing%20Impact&body=A%20brief%20tour%20through%20the%20ideas%20and%20inventions%20that%20brought%20us%20the%20smart%20buildings%20of%20today%0A%0ARead More:%0Ahttp%3A//www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/%3Futm_source%3Deb" class="social-icon email" data-omni-click="r'share-email',l.pathname"></a></li></ul>
+
+
+
+        </div>
+    </div>
+
+    <div class="sharebug on-mobile inactive features-top">
+        <span class="button" data-alt-text="Collapse">Share</span>
+        
+
+    
+    <ul class="sharekit vertical" data-omni-click="r'top',@data-share,l.pathname"><li><a data-omni-click="inherit" href="#" class="social-icon facebook" data-share="facebook" data-omni-click="r'share-fb',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon twitter" data-share="twitter"
+            
+            
+            
+            
+                data-share-url="/sponsored/jpmc-2017/designing-impact/1473/"
+            
+            data-omni-click="r'share-tweet',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon googleplus" data-share="googleplus" data-omni-click="r'share-google',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon linkedin" data-share="linkedin" data-omni-click="r'share-linkedin',l.pathname"></a></li><li><a data-omni-click="inherit" href="mailto:?subject=Designing%20Impact&body=A%20brief%20tour%20through%20the%20ideas%20and%20inventions%20that%20brought%20us%20the%20smart%20buildings%20of%20today%0A%0ARead More:%0Ahttp%3A//www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/%3Futm_source%3Deb" class="social-icon email" data-omni-click="r'share-email',l.pathname"></a></li></ul>
+
+
+
+    </div>
+
+    
+
+<ul class="sponsored-modules module-features-main-content"
+    data-location-label="Feature article content"
+    data-location-slug="features-main-content">
+
+    <li class="sponsored-module sponsored-module-10518" 
+        data-pk="10518" 
+        data-omni-click="r'jpmc-2017',r'features-main-content',r'article-header'"
+        data-module-name="Article header">
+            
+
+<header class=" features-header">
+    
+
+    <h1>Designing Impact</h1>
+
+    <div class="dek">A brief tour through the ideas and inventions that brought us the smart buildings of today</div>
+
+    
+    
+    
+
+    
+</header>
+
+    </li>
+
+    <li class="sponsored-module sponsored-module-10521" 
+        data-pk="10521" 
+        data-omni-click="r'jpmc-2017',r'features-main-content',r'main-graphic-feature'"
+        data-module-name="Main graphic feature">
+            
+
+
+
+
+
+    </li>
+
+    <li class="sponsored-module sponsored-module-10524" 
+        data-pk="10524" 
+        data-omni-click="r'jpmc-2017',r'features-main-content',r'article-contents'"
+        data-module-name="Article contents">
+            <div class="content">
+    <article class="article-body" id="article-body">
+        <section id="features-section-1"><div class="gallery-inner">
+<div class="building-container">
+<div class="line"></div>
+
+<div class="building">
+<div class="one-eight-seven-nine"></div>
+
+<div class="one-eight-eight-two"></div>
+
+<div class="one-eight-eight-five"></div>
+
+<div class="one-eight-eight-nine"></div>
+
+<div class="one-eight-nine-four"></div>
+
+<div class="one-nine-six-two"></div>
+
+<div class="one-nine-seven-three"></div>
+
+<div class="one-nine-nine-zero"></div>
+
+<div class="one-nine-nine-eight"></div>
+
+<div class="two-zero-one-six"></div>
+
+<div class="two-zero-one-seven"></div>
+</div>
+</div>
+
+<div class="copy full-width">
+<div class="header-lockup">
+<div class="header-inner">
+<h3>Timeline</h3>
+
+<h1>Designing Impact</h1>
+
+<h2>A brief tour through the ideas and inventions that brought us the smart buildings of today</h2>
+
+<p>Illustration by Studio Muti</p>
+
+<h4>SCROLL ↓</h4>
+</div>
+<!--<h4 class="desktop">SCROLL &#8595;</h4>--->
+
+<figure class="mobile-header-img"><img alt="" src="https://cdn.theatlantic.com/assets/media/files/jpmc-test.jpg"></figure></div>
+<!---
+<div class="intro">
+<p><span>Imagine it&#8217;s summer in New York City, 1883.</span> You&#8217;re staying late at the office. As the sun goes down, you light a match and ignite the gas lamps. Sweat drips down your back; it&#8217;s a humid 96 degrees. Coal keeps the steam elevators operating, and its heavy, sulfurous smell wafts into your office.</p>
+
+<p>The clean, cool, energy-efficient buildings we take for granted today are the result of more than 150 years of innovation. Gas lamps and intercoms morphed into LED bulbs and Wi-Fi. As early as the 1960s, office buildings featured so much technology that they required robust management systems. The systems promised more efficiency, but they came at a cost too high for most companies.</p>
+
+<p>According to the Department of Energy, close to five million commercial buildings dotted the U.S. by the early 2000s. They accounted for 18 percent of the nation&#8217;s overall energy use, and about 17 percent of electricity usage in commercial buildings simply kept the lights on. Estimates showed that building management systems could reduce that energy use by 6 percent &#8212; the equivalent of taking nearly 20 million cars off the road &#8212; yet only 10 percent of office buildings in the U.S. had them. Much of the decrease would come from using long-lasting LED bulbs rather than older technologies, such as incandescent bulbs, yet a 2012 survey by the U.S. Energy Information Administration found that only 3 percent of lighting in extant commercial buildings came from LEDs.</p>
+
+<p>Changes in technology and cost started to shift this trend in the post-recession years and private enterprises solidified their commitments to more environmentally sound, energy-efficient operations, ushering in a new era. Through an extensive renovation of its global headquarters in New York in 2012, for example, JPMorgan Chase cut electricity consumption by half and began saving one million gallons of water a year.</p>
+
+<p>As part of JPMorgan Chase&#8217;s broader <a href="http://hub.currentbyge.com/featured-content/current-powered-by-ge-and-jpmorgan-chase-launch-energy-efficiency-sustainability-collaboration-across-4-500-branches" rel="nofollow" target="_blank">commitment</a> to source renewable power for 100 percent of its energy needs by 2020, the company has partnered with Current, powered by GE, and is installing <a href="http://www.gelighting.com/LightingWeb/na/solutions/technologies/led/lighting/index.jsp" rel="nofollow" target="_blank">LED bulbs</a> and an intelligent environments platform that will drive energy efficiency and business productivity at nearly 4,500 of the bank&#8217;s branches. (The intelligent environments platform, a more advanced version of a traditional building management system, is analogous to the smart phone operating system in that it is open and offers a variety of lighting, energy efficiency, and business productivity apps to be integrated by corporate customers.) This intelligent environments platform is also a key reason that as more apps are dreamed up, smart buildings will continue to be the discovery zone for new solutions and milestones that we can&#8217;t even imagine today.</p>
+</div>
+--->
+
+<div class="scroll-gallery">
+<div class="intro">
+<p><span>Imagine it’s summer in New York City, 1883.</span> You’re staying late at the office. As the sun goes down, you light a match and ignite the gas lamps. Sweat drips down your back; it’s a humid 96-degrees. Coal keeps the steam elevators operating, and its heavy, sulfurous smell wafts into your office.</p>
+
+<p>The clean, cool, energy-efficient buildings we take for granted today are the result of more than 150 years of innovation. Gas lamps and intercoms morphed into LED bulbs and Wi-Fi. As early as the 1960s, office buildings featured so much technology that they required robust management systems. The systems promised more efficiency, but they came at a cost too high for most companies.</p>
+
+<p>According to the Department of Energy,<sup>1</sup> close to five million commercial buildings dotted the U.S. by the early 2000s. They accounted for 18 percent of the nation’s overall energy use, and about 17 percent of electricity usage in those commercial buildings simply kept the lights on<sup>2</sup>. Estimates showed that building management systems could reduce that energy use by 6 percent — the equivalent of taking nearly 20 million cars<sup>3</sup> off the road — yet only 10 percent of office buildings<sup>4</sup> in the U.S. had them. Much of the decrease would come from using long-lasting LED bulbs rather than older technologies, such as incandescent bulbs, yet a 2012 survey<sup>5</sup> by the U.S. Energy Information Administration found that only 3 percent of lighting in extant commercial buildings came from LEDs.</p>
+
+<p>Changes in technology and cost started to shift this trend in the post-recession years and private enterprises solidified their commitments to more environmentally sound, energy-efficient operations, ushering in a new era. Through an extensive renovation of its global headquarters in New York in 2012, for example, JPMorgan Chase cut electricity consumption by half and began saving one million gallons of water a year<sup>6</sup>.</p>
+
+<p>As part of JPMorgan Chase’s broader <a href="https://www.jpmorganchase.com/corporate/Corporate-Responsibility/environment.htm" rel="nofollow" target="_blank">commitment</a> to source renewable power for 100 percent of its energy needs by 2020, the company <a href="https://hub.currentbyge.com/featured-content/jpmc" rel="nofollow" target="_blank">collaborated</a> with Current, powered by GE, and is installing <a href="http://www.gelighting.com/LightingWeb/na/solutions/technologies/led/lighting/index.jsp" rel="nofollow" target="_blank">LED bulbs</a> and an intelligent environments platform that will drive energy efficiency and business productivity at nearly 4,500 of the bank’s branches. The intelligent environments platform, a more advanced version of a traditional building management system, is analogous to the smart phone operating system in that it is open and offers a variety of lighting, energy efficiency, and business productivity apps to be integrated by corporate customers. This intelligent environments platform is also a key reason that as more apps are dreamed up, smart buildings will continue to be the discovery zone for new solutions and milestones that we can’t even imagine today.</p>
+</div>
+
+<div class="landing__dek"></div>
+
+<div class="year" id="one-eight-seven-nine">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1879 <span>Lighting &amp; Building</span></h3>
+
+<h1>The Cotton Filament Lightbulb</h1>
+
+<p>Thomas Edison used a carbonized cotton filament—the part of the light bulb that glows—to produce the first long-burning light bulb. It lasted for an impressive 13 and a half hours. His work built on that of inventors Joseph Swan and Warren De La Rue. It’s debatable who invented the light bulb, but who commercialized it? That is a crown only Edison wears. "We will make electricity so cheap that only the rich will burn candles," said Edison. Much-needed capital to fund these early experiments at Edison Electric Light Company came from the company’s individual partners as well as Drexel Morgan &amp; Co., which would go on to become JPMorgan Chase. Within a year, Edison had added carbonized bamboo as a filament, a move that resulted in 1,200 hours of light from a single bulb. <span>Reference: http://ethw.org/Early_Light_Bulbs</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-eight-eight-two">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1882 <span>Lighting &amp; Power</span></h3>
+
+<h1>Edison's Power Station and the Electrified Office</h1>
+
+<p>In just a few short years, Edison, ever the salesman, convinced the city of New York to allow him to light the length of Pearl Street. To do this he not only needed hundred of bulbs, but also a power station to keep them glowing. At 3 p.m. on September 4, 1882, Edison’s station (another invention) roared to life, and 400 electric light bulbs cast a glow over lower Manhattan. A few months later, the Drexel Morgan &amp; Co. headquarters on Wall Street made the switch to electric bulbs. The company continued to show its support a decade later, when it arranged a merger between Edison’s company with Thomson-Houston Electric, thus forming General Electric. <span> Reference: http://www.menloparkmuseum.org/history/thomas-edison-and-menlo-park/</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-eight-eight-five">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1885 <span>Transport</span></h3>
+
+<h1>Steam-Powered Elevators</h1>
+
+<p>The first skyscraper, the 10-story Home Insurance Building, opened in Chicago. Not to be outdone, New York City followed with the Tower Building in 1889. The tall structures were made more feasible as places of business thanks to the steam-powered elevators. To power these buildings, horse-drawn carts lined up with a constant delivery of coal needed to keep the buildings running. Progress smelled like burning coal. <span>Reference: The American Skyscraper, 1850-1940: A Celebration of Height by Joseph J. Korom and https://www.theguardian.com/cities/2015/apr/02/worlds-first-skyscraper-chicago-home-insurance-building-history</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-eight-eight-nine">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1889 <span>Climate</span></h3>
+
+<h1>The First HVAC</h1>
+
+<p>Inventor Alfred Wolff turned Carnegie Hall into an experiment in cooling and ventilation by combining fans with large blocks of ice. Within five years, he would install the first true air-conditioning system in the New York Stock Exchange, which regulated both temperature and humidity. <span>Reference: http://www.newyorker.com/tech/elements/an-apparatus-for-treating-air-the-modern-air-conditioner</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-eight-nine-four">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1894 <span>Communication</span></h3>
+
+<h1>The First Intercom System</h1>
+
+<p>Early attempts at interoffice communication were a mix of “electric call-bells, speaking tubes and pneumatic [activated by gas or air] tubes,” according to <em>The Boston Globe</em>. Then came the Kellogg intercom, patented in 1894. Intercoms grew in popularity because they were less expensive to install than telephone systems. Even though the first telephone was demonstrated in 1876, it took another 25 years for American Telephone and Telegraph (AT&amp;T) to complete a national telephone network, permitting business communications to reach far beyond the adjacent floor. <span>Reference: American Cities and Technology: Wilderness to Wired City By Gerrylynn K. Roberts, Philip Steadman Reference: https://www.officemuseum.com/communications_equipment.htm </span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-nine-six-two">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1962 <span>Lighting</span></h3>
+
+<h1>The Red LED</h1>
+
+<p>The never-ending race to light the world arrived at the light-emitting diode, better known as the LED. General Electric's Nick Holonyak invented a red diode that first appeared to consumers in the 1970s on calculator displays and as indicator lights on devices like remote controls, replacing small but power-hungry incandescent bulbs. <span>Reference: https://energy.gov/articles/history-light-bulb Reference: https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/pnnl-15149_market_assessment.pdf </span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-nine-seven-three">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1973 <span>Management Systems</span></h3>
+
+<h1>Computerized Building Management</h1>
+
+<p>Oil embargoes in the 1970s triggered an energy crisis in the U.S. Expensive computerized systems for controlling many aspects of a building–such as air-conditioning, lighting, and mechanics–which appeared in the 1960s, became more attractive. They also became more sophisticated. Night and day schedules for lighting and the HVAC (heating, ventilation, and air-conditioning) systems were adopted to sync with changing employee numbers throughout a 24-hour cycle.<br><br>
+But reducing energy consumption is not always simple. As buildings tightened windows and walls to prevent climate-controlled air from escaping, indoor pollutants and carbon dioxide increased. This could impact employee productivity by as much as 50 percent, a Harvard study would later find. A truly intelligent building management system was still lacking. <span>Reference: https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/pnnl-15149_market_assessment.pdf https://ehp.niehs.nih.gov/15-10037/ </span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-nine-nine-zero">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1990s <span>Lighting</span></h3>
+
+<h1>The White LED</h1>
+
+<p>The invention of the blue LED by Professors Shuji Nakamura, Isamu Akasaki, and Hiroshi Amano continued to push the LED along. They would later win a Nobel Prize for their work. The blue diode combined with a yellow fluorescent made the resulting light seem white to the eye. White LEDs would soon become a mix of red, green, and blue light. LEDs went on the market, but were relatively inefficient and expensive to produce commercially. <span>Reference: http://www.bbc.com/news/science-environment-29518521 https://energy.gov/articles/history-light-bulb</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="one-nine-nine-eight">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>1998 <span>Sustainability</span></h3>
+
+<h1>The LEED Rating System</h1>
+
+<p>The first version of the Leadership in Energy and Environmental Design (LEED) building rating system launched, indicating that the world is paying attention to a building’s impact on environmental and human health through five categories: energy efficiency, materials used, water savings, indoor environment quality, and sustainable site landscaping. <span>Reference: http://enviroinstitute.org/wp-content/uploads/2012/09/GREEN-BUILDING-A-Retrospective-History-of-LEED-Certification-November-2012.pdf</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+
+<div class="year" id="two-zero-one-six">
+<div class="gradient-up"></div>
+
+<div class="year-inner">
+<h3>2016 <span>Smart systems and sustainability</span></h3>
+
+<h1>Sensors and Smart Building Systems</h1>
+
+<p>JPMorgan Chase collaborated with GE once again to pursue innovation and sustainability. With the help of Current, powered by GE, the world’s largest single-order of LEDs was installed across nearly 4,500 of the bank’s branches and 60 of their office sites. The initiative is on track to cut lighting energy usage in half. That is equal to taking 27,000 cars off the road or preserving more than 100,000 acres of forest. When the project is completed, an additional 25 million square feet of commercial space will be lit by energy-saving LEDs.<br><br>
+The collaboration will also add an intelligent environments platform to control lighting levels, irrigation, water, ventilation, heating, and cooling at branches. Through infrared and motion sensors, this system learns and predicts human behavior and adjusts accordingly. The sensors take into account moment-by-moment changes in weather and natural light, even identifying when the sun goes behind a cloud. And to overcome the hurdle of increased carbon dioxide and indoor pollutants that have historically accompanied greener buildings, the sensors will monitor these levels as well. Using this collective data, the system adjusts lighting, airflow, and ventilation for maximum energy efficiency and comfort. Installing these systems will further reduce JPMorgan Chase’s electric and gas consumption by 15 percent, and water and irrigation by 20 percent. <span>Reference: http://enviroinstitute.org/wp-content/uploads/2012/09/GREEN-BUILDING-A-Retrospective-History-of-LEED-Certification-November-2012.pdf</span></p>
+</div>
+
+<div class="gradient-down"></div>
+</div>
+</div>
+
+<div class="switch-off"></div>
+
+<div class="conclusion">
+<p><span>If LEDs are installed on a wide-scale basis by 2030,</span> they could potentially halve lighting electricity use in the U.S. This would save the equivalent greenhouse gas emissions of 40 million cars, and a potential $30 billion<sup>7</sup>. Buildings will become increasingly autonomous in the future, too, shifting away from centralized energy sources and beginning to develop their own energy through solar and wind. Some will even begin contributing back into what is known as the energy cloud, ensuring the entire electrical grid relies less on centralized energy. JPMorgan Chase and Current, powered by GE, are piloting a program using solar panels installed at branches across California and New Jersey. Overall, the collaboration will help JPMorgan Chase achieve its goal of using renewable power for 100% of its global energy needs by 2020.</p>
+
+<p>When widely adopted, intelligent environments solutions like those from Current, powered by GE, have the potential to reduce U.S. energy use by six percent<sup>8</sup>. The data collected and analyzed by these systems will enable companies to improve the comfort and efficiency of their commercial office buildings, and also increase the efficiency and productivity of all working in those buildings through apps that focus on enhanced space utilization and conference room management. If a meeting ends early, for example, sensors will pick up that people have left the conference area, then digitally notify other team members of space availability, allowing it to be reutilized. If the space isn’t filled again, the lighting and HVAC system will adjust to a lower-energy setting. When companies know exactly how space is being used, they can downsize or reallocate their square footage, and decrease energy-use, and therefore emissions, overall. As companies and corporations around the world turn their focus to overall intelligent environments platforms, the future promises an era of smart buildings more environmentally-sustainable than ever before.</p>
+
+<ul class="sources"><li><sup>1</sup>https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/pnnl-15149_market_assessment.pdf</li>
+	<li><sup>2</sup>https://www.eia.gov/consumption/commercial/reports/2012/lighting/</li>
+	<li><sup>3</sup>http://www.energy.ca.gov/commissioners/rosenfeld_docs/Equivalence-Matrix_2001-05.pdf</li>
+	<li><sup>4</sup>https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/pnnl-15149_market_assessment.pdf</li>
+	<li><sup>5</sup>https://www.eia.gov/consumption/commercial/reports/2012/lighting/?src=%E2%80%B9%20Consumption%20%20%20Commercial%20Buildings%20Energy%20Consumption%20Survey%20(CBECS)-b1</li>
+	<li><sup>6</sup>http://www.businesswire.com/news/home/20120118005107/en/JPMorgan-Chase-Achieves-LEED%C2%AE-Platinum-Green-Building</li>
+	<li><sup>7</sup>https://energy.gov/energysaver/led-lighting</li>
+	<li><sup>8</sup>https://www1.eere.energy.gov/buildings/publications/pdfs/corporate/pnnl-15149_market_assessment.pdf</li>
+</ul></div>
+
+<div class="footer-end">
+<p class="footer"><a href="https://www.jpmorganchase.com/corporate/Corporate-Responsibility/environment.htm" rel="nofollow" target="_blank">JPMorgan Chase</a> has committed to source renewable power for 100 percent of its global energy needs by 2020. The firm has offices and operations in more than 60 countries across over 5,500 properties, covering approximately 75 million square feet. This will include retrofitting our branches with LED lighting for a total of 1.4 million new light bulbs, which will cut the company’s lighting energy consumption by 50 percent. Developing an on-site solar installation at the firm's largest single-tenant office may comprise up to 20 megawatts of capacity, enough to power the equivalent of 3,280 homes.</p>
+<iframe frameborder="0" src="https://www.knotch.it/extern/survey/59b99461030861a9481a3879" style="width: 100%; max-width:500px; height: 260px; display: block; margin: 40px auto 0;"></iframe></div>
+</div>
+</div>
+<script>
+	
+  $(window).load(function() {
+  	//$('.sticky-header-bar').css('visibility', 'hidden');
+
+  	$('.sticky-header-bar').css('visibility', 'hidden');
+
+    $(window).on('scroll', function() {
+      var scrollPosition = window.pageYOffset;
+      var stickyHeaderThreshold = $('.landing__dek').offset().top;
+
+      if (scrollPosition > stickyHeaderThreshold) {
+        showStickyHeader();
+      } else {
+        hideStickyHeader();
+      }
+    });
+
+  	function hideStickyHeader() {
+      $('.sticky-header-bar').removeClass('is-open').addClass('is-closed');
+      $('.sticky-header-bar').css('visibility', 'hidden');
+      $('.sharekit.vertical').css('display', 'none');
+    }
+
+    function showStickyHeader() {
+      $('.sticky-header-bar').css('visibility', 'visible');
+      $('.sticky-header-bar').removeClass('is-closed').addClass('is-open');
+    }
+  });
+
+</script><script>
+
+$(window).on("scroll", function() { 
+  	
+  	
+  	/*
+  	if(
+  		$(window).scrollTop() > $("#one-eight-seven-nine").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-seven-nine").offset().top + $("#one-eight-seven-nine").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-eight-seven-nine");
+    } else {
+    	$(".building").removeClass("one-eight-seven-nine");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-eight-two").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-eight-two").offset().top + $("#one-eight-eight-two").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-eight-eight-two");
+    } else {
+    	$(".building").removeClass("one-eight-eight-two");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-eight-five").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-eight-five").offset().top + $("#one-eight-eight-five").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-eight-eight-five");
+    } else {
+    	$(".building").removeClass("one-eight-eight-five");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-eight-nine").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-eight-nine").offset().top + $("#one-eight-eight-nine").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-eight-eight-nine");
+    } else {
+    	$(".building").removeClass("one-eight-eight-nine");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-nine-four").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-nine-four").offset().top + $("#one-eight-nine-four").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-eight-nine-four");
+    } else {
+    	$(".building").removeClass("one-eight-nine-four");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-six-two").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-six-two").offset().top + $("#one-nine-six-two").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-nine-six-two");
+    } else {
+    	$(".building").removeClass("one-nine-six-two");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-seven-three").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-seven-three").offset().top + $("#one-nine-seven-three").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-nine-seven-three");
+    } else {
+    	$(".building").removeClass("one-nine-seven-three");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-nine-zero").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-nine-zero").offset().top + $("#one-nine-seven-three").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-nine-nine-zero");
+    } else {
+    	$(".building").removeClass("one-nine-nine-zero");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-nine-eight").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-nine-eight").offset().top + $("#one-nine-nine-eight").outerHeight(true))
+    ) {
+    	$(".building").addClass("one-nine-nine-eight");
+    } else {
+    	$(".building").removeClass("one-nine-nine-eight");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#two-zero-one-six").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#two-zero-one-six").offset().top + $("#two-zero-one-six").outerHeight(true))
+    ) {
+    	$(".building").addClass("two-zero-one-six");
+    } else {
+    	$(".building").removeClass("two-zero-one-six");
+    }
+  	*/
+  	/****** new *********/
+  
+  	if(
+  		$(window).scrollTop() < $(".article-body").offset().top + 100
+    ) {
+    	$(".sharekit.vertical").removeClass("hide");
+    } else {
+    	$(".sharekit.vertical").addClass("hide");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $(".intro").offset().top - 500
+    ) {
+    	$(".sharekit.vertical").css("display", "none");
+    } else {
+    	$(".sharekit.vertical").css("display", "block");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-seven-nine").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-seven-nine").offset().top + $("#one-eight-seven-nine").outerHeight(true))
+    ) {
+    	$(".one-eight-seven-nine").addClass("show");
+    } else {
+    	$(".one-eight-seven-nine").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-eight-two").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-eight-two").offset().top + $("#one-eight-eight-two").outerHeight(true))
+    ) {
+    	$(".one-eight-eight-two").addClass("show");
+    } else {
+    	$(".one-eight-eight-two").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-eight-five").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-eight-five").offset().top + $("#one-eight-eight-five").outerHeight(true))
+    ) {
+    	$(".one-eight-eight-five").addClass("show");
+    } else {
+    	$(".one-eight-eight-five").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-eight-nine").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-eight-nine").offset().top + $("#one-eight-eight-nine").outerHeight(true))
+    ) {
+    	$(".one-eight-eight-nine").addClass("show");
+    } else {
+    	$(".one-eight-eight-nine").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-eight-nine-four").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-eight-nine-four").offset().top + $("#one-eight-nine-four").outerHeight(true))
+    ) {
+    	$(".one-eight-nine-four").addClass("show");
+    } else {
+    	$(".one-eight-nine-four").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-six-two").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-six-two").offset().top + $("#one-nine-six-two").outerHeight(true))
+    ) {
+    	$(".one-nine-six-two").addClass("show");
+    } else {
+    	$(".one-nine-six-two").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-seven-three").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-seven-three").offset().top + $("#one-nine-seven-three").outerHeight(true))
+    ) {
+    	$(".one-nine-seven-three").addClass("show");
+    } else {
+    	$(".one-nine-seven-three").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-nine-zero").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-nine-zero").offset().top + $("#one-nine-seven-three").outerHeight(true))
+    ) {
+    	$(".one-nine-nine-zero").addClass("show");
+    } else {
+    	$(".one-nine-nine-zero").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#one-nine-nine-eight").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#one-nine-nine-eight").offset().top + $("#one-nine-nine-eight").outerHeight(true))
+    ) {
+    	$(".one-nine-nine-eight").addClass("show");
+    } else {
+    	$(".one-nine-nine-eight").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $("#two-zero-one-six").offset().top - 500 && 
+  		$(window).scrollTop() < ($("#two-zero-one-six").offset().top + $("#two-zero-one-six").outerHeight(true))
+    ) {
+    	$(".two-zero-one-six").addClass("show");
+    } else {
+    	$(".two-zero-one-six").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $(".conclusion").offset().top - 500  
+  		//$(window).scrollTop() < ($(".conclusion").offset().top + $(".conclusion").outerHeight(true))
+    ) {
+    	$(".two-zero-one-seven").addClass("show");
+    } else {
+    	$(".two-zero-one-seven").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $(".conclusion").offset().top - 500  
+  		//$(window).scrollTop() < ($(".conclusion").offset().top + $(".conclusion").outerHeight(true))
+    ) {
+    	$(".two-zero-one-seven").addClass("show");
+    } else {
+    	$(".two-zero-one-seven").removeClass("show");
+    }
+  
+  	if(
+  		$(window).scrollTop() > $(".switch-off").offset().top  
+  		//$(window).scrollTop() < ($(".conclusion").offset().top + $(".conclusion").outerHeight(true))
+    ) {
+    	$(".building-container").css("opacity", "0");
+    } else {
+    	$(".building-container").css("opacity", "100");
+    }
+  
+  	
+  
+});
+  
+</script></section>
+    </article>
+</div>
+
+
+    
+
+
+    <div class="sponsored-author-details no-authors">
+        
+
+        <div class="sponsor sponsor-logo-lockup">
+            <span class="label">Sponsor Content</span>
+            
+
+<div class="sponsor-logo sponsored-modules"
+     data-location-label="Sponsored Logo"
+     data-location-slug="campaign-sponsor-logo-bottom">
+    
+    
+    <div class="sponsored-module sponsored-module-10479" 
+         data-edit-only="1"
+         data-pk="10479" 
+         data-omni-click="r'jpmc-2017',r'campaign-sponsor-logo-bottom',r'logo'"
+         data-module-name="logo">
+        <a href="https://www.jpmorganchase.com/" data-omni-click="inherit" rel="nofollow" 
+    >
+    <img class="sponsored-img-module" src="https://cdn.theatlantic.com/assets/media/img/custom/2017/03/23/jpmc02_vusckW8.png" alt="logo" />
+</a>
+
+    </div>
+    
+    
+</div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+
+    </li>
+
+    <li class="sponsored-module sponsored-module-10527" 
+        data-pk="10527" 
+        data-omni-click="r'jpmc-2017',r'features-main-content',r'share-buttons-left-aligned'"
+        data-module-name="Share buttons (left aligned)">
+            
+
+    
+    <ul class="sharekit horizontal social-btns-left" data-omni-click="r'draggable',@data-share,l.pathname"><li><a data-omni-click="inherit" href="#" class="social-icon facebook" data-share="facebook" data-omni-click="r'share-fb',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon twitter" data-share="twitter"
+            
+            
+            
+            
+                data-share-url="/sponsored/jpmc-2017/designing-impact/1473/"
+            
+            data-omni-click="r'share-tweet',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon googleplus" data-share="googleplus" data-omni-click="r'share-google',l.pathname"></a></li><li><a data-omni-click="inherit" href="#" class="social-icon linkedin" data-share="linkedin" data-omni-click="r'share-linkedin',l.pathname"></a></li><li><a data-omni-click="inherit" href="mailto:?subject=Designing%20Impact&body=A%20brief%20tour%20through%20the%20ideas%20and%20inventions%20that%20brought%20us%20the%20smart%20buildings%20of%20today%0A%0ARead More:%0Ahttp%3A//www.theatlantic.com/sponsored/jpmc-2017/designing-impact/1473/%3Futm_source%3Deb" class="social-icon email" data-omni-click="r'share-email',l.pathname"></a></li></ul>
+
+
+
+
+    </li>
+
+    <li class="sponsored-module sponsored-module-10530" 
+        data-pk="10530" 
+        data-omni-click="r'jpmc-2017',r'features-main-content',r'leaderboard'"
+        data-module-name="leaderboard">
+            
+
+        <div class="ad-container">
+            
+            
+
+    <gpt-ad id="ad-midleader-1605"
+        targeting-pos="articleleader"
+        class="ad ad-midleader"
+        
+        
+        
+        
+        
+
+        data-object-pk="167"
+        data-object-name="midleader"
+        >
+        
+            <gpt-sizeset viewport-size="[980, 0]" sizes="[[728, 90], [970, 250]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[760, 0]" sizes="[[728, 90]]"></gpt-sizeset>
+        
+            <gpt-sizeset viewport-size="[0, 0]" sizes="[[300, 250], [320, 50]]"></gpt-sizeset>
+        
+    </gpt-ad>
+
+
+        </div>
+
+
+
+    </li>
+
+    <li class="sponsored-module sponsored-module-10533" 
+        data-pk="10533" 
+        data-omni-click="r'jpmc-2017',r'features-main-content',r'article-list'"
+        data-module-name="Article List">
+            
+    <div class="more-from-sponsor">
+        <h3 class="section-header">More from this sponsor</h3>
+        
+
+<div class="article-river" data-omni-click="r'sponsorriver',l.href">
+    
+    <div class="article  has-background-image resp-river-wide-image">
+        <a href="/sponsored/jpmc-2017/in-the-startup-world-mentorship-drives-greater-success/1440/"  data-omni-click="inherit">
+            
+            <img src="https://cdn.theatlantic.com/assets/media/img/sponsored/2017/08/shutterstock_372388060-1/resp-river-wide.jpg?1502293638" width="980"  />
+        </a>
+
+        <div class="river-article-header">
+            
+
+            <a href="/sponsored/jpmc-2017/in-the-startup-world-mentorship-drives-greater-success/1440/" data-omni-click="inherit">
+                <h3 class="title">In the Startup World, Mentorship Drives Greater Success</h3>
+
+                
+                    <span class="read-now">Read Now</span>
+                
+            </a>
+        </div>
+
+        
+        <div class="dek">When they work with appropriately-skilled mentors, startups take on more ambitious goals and increase their likelihood of succeeding. Large companies are seeing the benefits of offering this mentorship, too, as it creates a myriad of opportunities for innovation.</div>
+
+        <div class="metadata">
+            
+        </div>
+        
+    </div>
+    
+    <div class="article  has-background-image resp-river-wide-image">
+        <a href="/sponsored/jpmc-2017/to-find-top-tech-talent-get-creative/1416/"  data-omni-click="inherit">
+            
+            <img src="https://cdn.theatlantic.com/assets/media/img/sponsored/2017/07/jpmc_synd/resp-river-wide.jpg?1500040398" width="980"  />
+        </a>
+
+        <div class="river-article-header">
+            
+
+            <a href="/sponsored/jpmc-2017/to-find-top-tech-talent-get-creative/1416/" data-omni-click="inherit">
+                <h3 class="title">To Find Top Tech Talent, Get Creative</h3>
+
+                
+                    <span class="read-now">Read Now</span>
+                
+            </a>
+        </div>
+
+        
+        <div class="dek">Companies’ needs for tech workers are outstripping the traditional talent pipeline. Here’s how businesses are tracking down the best candidates.</div>
+
+        <div class="metadata">
+            
+        </div>
+        
+    </div>
+    
+    <div class="article  has-background-image resp-river-wide-image">
+        <a href="/sponsored/jpmc-2017/to-build-a-home/1329/"  data-omni-click="inherit">
+            
+            <img src="https://cdn.theatlantic.com/assets/media/img/sponsored/2017/06/MG_4317/resp-river-wide.jpg?1497388568" width="980"  />
+        </a>
+
+        <div class="river-article-header">
+            
+
+            <a href="/sponsored/jpmc-2017/to-build-a-home/1329/" data-omni-click="inherit">
+                <h3 class="title">To Build A Home</h3>
+
+                
+                    <span class="read-now">Read Now</span>
+                
+            </a>
+        </div>
+
+        
+        <div class="dek">In Detroit’s Midtown neighborhood, a wave of development is bringing new life to the community and spurring the city's rebirth.</div>
+
+        <div class="metadata">
+            
+        </div>
+        
+    </div>
+    
+</div>
+
+    </div>
+
+
+
+    </li>
+
+</ul>
+
+
+                <div class="footer-content">
+    
+        
+
+<ul class="sponsored-modules module-campaign-footer"
+    data-location-label="Campaign Footer"
+    data-location-slug="campaign-footer">
+
+</ul>
+    
+</div>
+
+            </div>
+
+            
+
+
+
+
+<footer id="site-footer" data-omni-click="r'article',r'footer',d,r' ',r' ',@href">
+    
+    <div class="row">
+        <section class="subscribe">
+            <div class="footer-content border">
+                <div id="subscribe-header" >
+                    <h1 class="footer-title">Subscribe</h1>
+                    <p class="promo-tag">Get 10 issues a year and save 65% off the cover price.</p>
+                </div>
+                <a href="/subscribe/footer-cover" data-omni-click="inherit">
+                    <div id="issue-image">
+                        
+                        
+                        
+                        
+                        
+                        <img class="cover lazyload" data-src="https://cdn.theatlantic.com/assets/media/img/issues/2017/09/08/1017_Cover/large.jpg?1504889627" alt="">
+                        
+                        
+                        
+                    </div>
+                </a>
+
+                <div class="wrap-form">
+                    <form action="/subscribe/embedded-footer-features/" method="post" id="footerCircForm" class="labeled">
+
+    <input type="HIDDEN" name="lsid" value="50301515139038984">
+    <input type="HIDDEN" name="vid" value="1">
+    <input type="HIDDEN" name="cds_page_id" value="173343">
+    <input type="HIDDEN" name="cds_mag_code" value="ATL">
+    <input type="HIDDEN" name="cds_form_submitted" value="subscription_US_billme:subscription_US_billme1">
+    <input type="HIDDEN" name="cds_doms_order_number" value="">
+    <input type="HIDDEN" name="cds_doms_offer_code" value="">
+    <input type="HIDDEN" name="cds_doms_package_offer_id" value="">
+    <input type="HIDDEN" name="cds_config_id" value="">
+    <input type="HIDDEN" name="cds_series_status" value="">
+
+    <label class="u-element-invisible" for="cds_name">Name</label>
+    <input class="name label" name="cds_name" id="cds_name" type="text" value="" placeholder="Name" keyev="true">
+
+    <label class="u-element-invisible" for="cds_address_1">Address 1</label>
+    <input class="address1 label" name="cds_address_1" id="cds_address_1" type="text" value="" placeholder="Address 1">
+
+    <label class="u-element-invisible" for="cds_address_2">Address 2</label>
+    <input class="address2 label" name="cds_address_2" id="cds_address_2" type="text" value="" placeholder="Address 2">
+
+    <label class="u-element-invisible" for="cds_city">City</label>
+    <input class="city label" name="cds_city" id="cds_city" type="text" value="" placeholder="City">
+
+    <div class="styled-select">
+        <label class="u-element-invisible" for="cds_state">State</label>
+        <select class="state" name="cds_state" id="cds_state">
+            <option selected disabled value="">State</option>
+            <option value="AL">Alabama</option>
+            <option value="AK">Alaska</option>
+            <option value="AB">Alberta</option>
+            <option value="AS">American Samoa</option>
+            <option value="AE">APO/FPO-Africa</option>
+            <option value="AE">APO/FPO-Canada</option>
+            <option value="AE">APO/FPO-Europe</option>
+            <option value="AE">APO/FPO-Middle East</option>
+            <option value="AA">APO/FPO-Americas</option>
+            <option value="AP">APO/FPO-Pacific</option>
+            <option value="AZ">Arizona</option>
+            <option value="AR">Arkansas</option>
+            <option value="BC">British Columbia</option>
+            <option value="CA">California</option>
+            <option value="CO">Colorado</option>
+            <option value="CT">Connecticut</option>
+            <option value="DE">Delaware</option>
+            <option value="DC">District of Columbia</option>
+            <option value="FL">Florida</option>
+            <option value="GA">Georgia</option>
+            <option value="GU">Guam</option>
+            <option value="HI">Hawaii</option>
+            <option value="ID">Idaho</option>
+            <option value="IL">Illinois</option>
+            <option value="IN">Indiana</option>
+            <option value="IA">Iowa</option>
+            <option value="KS">Kansas</option>
+            <option value="KY">Kentucky</option>
+            <option value="LA">Louisiana</option>
+            <option value="ME">Maine</option>
+            <option value="MB">Manitoba</option>
+            <option value="MH">Marshall Islands</option>
+            <option value="MD">Maryland</option>
+            <option value="MA">Massachusetts</option>
+            <option value="MI">Michigan</option>
+            <option value="FM">Micronesia</option>
+            <option value="MN">Minnesota</option>
+            <option value="MS">Mississippi</option>
+            <option value="MO">Missouri</option>
+            <option value="MT">Montana</option>
+            <option value="NE">Nebraska</option>
+            <option value="NV">Nevada</option>
+            <option value="NB">New Brunswick</option>
+            <option value="NH">New Hampshire</option>
+            <option value="NJ">New Jersey</option>
+            <option value="NM">New Mexico</option>
+            <option value="NY">New York</option>
+            <option value="NF">Newfoundland</option>
+            <option value="NL">Newfoundland-Labrador</option>
+            <option value="NC">North Carolina</option>
+            <option value="ND">North Dakota</option>
+            <option value="MP">Northern Mariana Isles</option>
+            <option value="NT">Northwest Territories</option>
+            <option value="NS">Nova Scotia</option>
+            <option value="NU">Nunavut</option>
+            <option value="OH">Ohio</option>
+            <option value="OK">Oklahoma</option>
+            <option value="ON">Ontario</option>
+            <option value="OR">Oregon</option>
+            <option value="PW">Palau</option>
+            <option value="PA">Pennsylvania</option>
+            <option value="PE">Prince Edward Island</option>
+            <option value="PR">Puerto Rico</option>
+            <option value="PQ">Quebec</option>
+            <option value="QC">Quebec</option>
+            <option value="RI">Rhode Island</option>
+            <option value="SK">Saskatchewan</option>
+            <option value="SC">South Carolina</option>
+            <option value="SD">South Dakota</option>
+            <option value="TN">Tennessee</option>
+            <option value="TX">Texas</option>
+            <option value="UT">Utah</option>
+            <option value="VT">Vermont</option>
+            <option value="VI">Virgin Islands</option>
+            <option value="VA">Virginia</option>
+            <option value="WA">Washington</option>
+            <option value="WV">West Virginia</option>
+            <option value="WI">Wisconsin</option>
+            <option value="WY">Wyoming</option>
+            <option value="YT">Yukon Territories</option>
+        </select>
+    </div>
+
+    <label class="u-element-invisible" for="cds_zip">Zip Code</label>
+    <input name="cds_zip" id="cds_zip" type="text" pattern="\d*" size="10" value="" placeholder="Zip" class="zip label" />
+    
+    <label class="u-element-invisible" for="cds_country">Country</label>
+    <input name="cds_country" id="cds_country" type="text" value="United States" placeholder="Country" class="country label" />
+
+    <label class="u-element-invisible" for="cds_email">Email Address</label>
+    <input name="cds_email" id="cds_email" type="email" value="" placeholder="Email" class="email label" />
+
+    <input class="submit" type="submit" value="Order Now" name="Submit" />
+</form>
+
+                </div>
+                <div class="fraud-alert">
+                    <a href="/personal/archive/2013/10/fraud-alert-regarding-i-the-atlantic-i/280278/" data-omni-click="inherit">Fraud Alert regarding The Atlantic</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="newsletters toggleable">
+            <div class="footer-content border">
+                <h1 class="footer-title toggle">Newsletters<span>+</span></h1>
+            </div>
+            <div class="footer-content toggleable-content" id="footer-newsletter-signup" data-newsletter-signup="1">
+                <form action="" method="post" id="footer-newsletter-signup">
+
+    <fieldset class="newsletter-column wide">
+
+        <legend class="newsletter-header">The Atlantic</legend>
+
+        <div class="newsletter-sub-column">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581216" name="newsletters">
+                    <i>The Atlantic</i> Daily
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7574845" name="newsletters">
+                    This Week
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581269" name="newsletters">
+                    This Month
+                </label>
+            </div>
+        </div>
+
+        <div class="newsletter-sub-column">
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581260" name="newsletters">
+                    New Photo Galleries
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581275" name="newsletters">
+                    Top Videos This Week
+                </label>
+            </div>
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" value="7581281" name="newsletters">
+                    Politics &amp; Policy Daily
+                </label>
+            </div>
+        </div>
+
+    </fieldset>
+
+    <fieldset class="newsletter-column">
+        <legend class="newsletter-header">CityLab</legend>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" value="7607485" name="newsletters">
+                Today’s Top Stories
+            </label>
+        </div>
+        <div class="checkbox">
+            <label>
+                <input type="checkbox" value="7607490" name="newsletters">
+                This Week's Most Popular Stories
+            </label>
+        </div>
+    </fieldset>
+
+    <fieldset class="newsletter-column signup">
+        <div class="opt-in checkbox">
+            <label>
+                <input type="checkbox" value="7607877" checked name="newsletters">
+                <em>I want to receive updates from partners and sponsors.</em>
+            </label>
+        </div>
+        <div class="newsletter-input newsletter-email">
+            <label class="u-element-invisible" for="newsletter-email">Email Address</label>
+            <input class="full-width" type="email" id="newsletter-email" name="email" placeholder="Email">
+        </div>
+        <div class="newsletter-input newsletter-submit">
+            <input class="full-width submit" type="submit" id="newsletter-submit" value="Sign up">
+        </div>
+    </fieldset>
+
+    <p class="message"></p>
+</form>
+
+            </div>
+        </section>
+    </div>
+    
+    <div class="row">
+        <section class="follow toggleable">
+            <div class="footer-content border">
+                <h1 class="footer-title toggle">Follow<span>+</span></h1>
+            </div>
+            <div class="footer-content toggleable-content">
+                <ul class="nav-social-links social-icons color round">
+                    <li><a data-omni-click="inherit" class="social-icon facebook" href="https://www.facebook.com/TheAtlantic">Facebook</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon twitter" href="https://twitter.com/TheAtlantic">Twitter</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon linkedin" href="https://www.linkedin.com/company/the-atlantic">LinkedIn</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon instagram" href="https://www.instagram.com/theatlantic">Instagram</a></li>
+                    <li><a data-omni-click="inherit" href="http://theatlantic.tumblr.com/" class="social-icon tumblr">Tumblr</a></li>
+                    <li><a data-omni-click="inherit" href="https://www.pinterest.com/theatlantic/" class="social-icon pinterest">Pinterest</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon rss" href="/follow-the-atlantic/#follow-rssfeeds">RSS</a></li>
+                    <li><a data-omni-click="inherit" class="social-icon apple" href="https://itunes.apple.com/app/id397599894">App Store</a></li>
+                </ul>
+            </div>
+        </section>
+        <section class="about toggleable">
+            <div class="footer-content border">
+                <h1 class="footer-title toggle">About<span>+</span></h1>
+            </div>
+            <div class="footer-content toggleable-content">
+                <ul class="links">
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/masthead/">Masthead</a></li>
+                        <li><a data-omni-click="inherit" href="/faq/">FAQ</a></li>
+                        <li><a data-omni-click="inherit" href="/press/">Press</a></li>
+                        <li><a data-omni-click="inherit" href="/jobs/">Jobs</a></li>
+                    </div>
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/store/">Shop</a></li>
+                        <li><a data-omni-click="inherit" href="/ebooks/">Books</a></li>
+                        <li><a data-omni-click="inherit" href="/emporium/">Emporium</a></li>
+                        <li><a data-omni-click="inherit" href="https://accounts.theatlantic.com/?flow=cds">Manage Subscription</a></li>
+                    </div>
+                </ul>
+                <ul class="links">
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/contact/">Contact Us</a></li>
+                        <li><a data-omni-click="inherit" href="/tips/">Send a News Tip</a></li>
+                        <li><a data-omni-click="inherit" href="/privacy-policy/">Privacy Policy</a></li>
+                        <li><a data-omni-click="inherit" href="/advertise/">Advertise</a></li>
+                        <li><a data-omni-click="inherit" href="http://cdn.theatlantic.com/static/front/docs/ads/TheAtlanticAdvertisingGuidelines.pdf?v1">Advertising Guidelines</a></li>
+                    </div>
+                    <div class="about-link-group">
+                        <li><a data-omni-click="inherit" href="/terms-and-conditions/">Terms and Conditions</a></li>
+                        <li><a data-omni-click="inherit" href="/responsible-disclosure-policy/">Responsible Disclosure</a></li>
+                        
+                        
+                        <li><a data-omni-click="inherit" href="/site-map/">Site Map</a></li>
+                    </div>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <div class="copyright">
+        <p> TheAtlantic.com Copyright (c) 2017 by The Atlantic Monthly Group. All Rights Reserved.</p>
+    </div>
+</footer>
+
+
+        
+        </div> <!-- /.page -->
+
+        
+            
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56LJR35" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+            
+<script type="gpt-config">
+    {
+        "globals": {
+  "id": 1473, 
+  "title": "designing-impact"
+},
+        "zone": "/4624/Sponsored/TheAtlantic/jpmc-2017",
+        "lazy_load": 2,
+        "outofpage": true,
+        "krux": true,
+        "blueconic": true,
+        "perfUrl": "https://cdn.atlanticinsights.com/perf.gif"
+    }
+</script>
+
+<div id="outofpage"></div>
+
+<script src="https://www.googletagservices.com/tag/js/gpt.js" async="async" onerror="$(this).trigger('blocker-detected');"></script>
+
+
+            <!-- Footer Javascript -->
+            <script type="text/javascript" src="https://cdn.theatlantic.com/assets/static/a/sponsored/js/responsive-footer.1c246cc1297f.js" charset="utf-8"></script>
+
+            <!-- Infinite scroll, must be after ads -->
+            
+
+        
+
+        
+
+        <!-- Footer analytics. -->
+        
+        <!-- Moat tag -->
+<script>
+(function(){function h(b){var a=b=b.replace(":","");try{for(var c=0;100>c&&(b=decodeURIComponent(b),a!=b)&&!b.match(/^http(s)?\:/);c++)a=b}catch(d){}return b.replace(/(^\s+|\s+$)/g,"")}try{if(!location||!location.hostname||!location.pathname)return!1;var d=document.location.hostname.replace(/^www\./,""),n=function(){for(var b,a=document.getElementsByTagName("meta"),c,d=0,e=a.length;d<e;d++)if(c=a[d],"og:title"===c.getAttribute("property")){b=c.getAttribute("content");break}b||(b=document.title||"Untitled");
+return b}(),a={},a=function(b,a,c){a=window&&window.Atlantic&&window.Atlantic.page_info;b.l1=a&&a.sponsor||"Sponsor Not Found";b.l2=a&&a.campaign||"Campaign Not Found";b.l3=c;b.l4="__page__";c=a&&a.tags;var d;c&&"string"===typeof c?d=c:c&&(d=c[0]);c=document&&document.location&&document.location.href&&document.location.href.match(/utm_source=([^?&;#]*)(?:$|[?&;#])/);b.zctCat=d||"Category Type Not Found";b.zctUTM=c&&c[1]||"Unavailable";return b}(a,d,n),k=(new Date).getTime(),l=Math.floor(Math.random()*
+Math.pow(10,12));a.t=k;a.de=l;a.zMoatAB_SNPT=!0;var d=[],u=(new Date).getTime().toString(35),p=[h(a.l1),h(a.l2),h(a.l3),h(a.l4)].join(":"),n=/zct[a-z0-9]+/i,e="",f;for(f in a)a.hasOwnProperty(f)&&f.match(n)&&(e+="&"+f+"="+a[f]);var q=document.referrer.match(/^([^:]{2,}:\/\/[^\/]*)/),m=q?q[1]:document.referrer,v="https://9z4voljndh48-a.akamaihd.net/"+u+".gif?e=17&d="+encodeURIComponent(p)+"&de="+l+"&t="+k+"&i=ATLANTICCONTENT1&cm=1&j="+encodeURIComponent(m)+e+"&mp=1&ac=1&pl=1&bq=10&vc=2&cs=0",w="https://px.moatads.com/pixel.gif?e=17&d="+
+encodeURIComponent(p)+"&de="+l+"&t="+k+"&i=ATLANTICCONTENT1&cm=1&j="+encodeURIComponent(m)+e+"&mp=0&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0",x="https://px.moatads.com/pixel.gif?e=17&d="+encodeURIComponent(p)+"&de="+l+"&t="+k+"&i=ATLANTICCONTENT1&cm=1&j="+encodeURIComponent(m)+e+"&ku=1&ac=1&pl=1&bq=10&ad_type=img&vc=2&cs=0";(new Image).src=v;(new Image).src=w;for(var r in a)d.push(r+"="+encodeURIComponent(a[r]));var d=d.join("&"),d=d+"&vc=2",g=document.createElement("script");g.type="text/javascript";
+g.async=!0;g.onerror=function(){(new Image).src=x};var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(g,t);g.src="https://z.moatads.com/atlantic204medR14/moatcontent.js#&zctVER=1&"+d}catch(b){try{var y="//pixel.moatads.com/pixel.gif?e=24&d=data%3Adata%3Adata%3Adata&i=MOATCONTENTABSNIPPET1"+e+"&vc=2&ac=1&k="+encodeURIComponent(b)+"&j="+encodeURIComponent(m)+"&cs="+(new Date).getTime();(new Image).src=y}catch(z){}}})();
+</script>
+
+        
+
+
+        
+            <!-- Social Networks -->
+            <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId: '100770816677686',
+      xfbml      : false,
+      version    : 'v2.7'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+            <!-- Twitter -->
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js" async="async"></script>
+
+            <!-- Google+ -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+            <!-- Linked In -->
+
+<script type="text/javascript">
+    // LinkedIn doesn't have a sane ready event.
+    // We'll make our own.
+    window.onLinkedInLoad = function(){
+        $("script[src='//platform.linkedin.com/in.js']").trigger("linkedinReady");
+    }
+</script>
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+ lang: en_US
+ onLoad: onLinkedInLoad
+</script>
+
+        
+    </body>
+</html>
